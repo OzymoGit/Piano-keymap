@@ -1,0 +1,12 @@
+{
+  "defaultTheme": "Dark",
+  "availableThemes": {
+    "Red Velvet": "https://raw.githubusercontent.com/NotHammer043/nanoMIDIPlayer/refs/heads/main/api/themes/redvelvet.json",
+    "Dark": "https://raw.githubusercontent.com/NotHammer043/nanoMIDIPlayer/refs/heads/main/api/themes/dark.json",
+    "Discord": "https://raw.githubusercontent.com/NotHammer043/nanoMIDIPlayer/refs/heads/main/api/themes/discord.json",
+    "Forest Green": "https://raw.githubusercontent.com/NotHammer043/nanoMIDIPlayer/refs/heads/main/api/themes/forest.json",
+    "Halloween": "https://raw.githubusercontent.com/NotHammer043/nanoMIDIPlayer/refs/heads/main/api/themes/halloween.json",
+    "Light": "https://raw.githubusercontent.com/NotHammer043/nanoMIDIPlayer/refs/heads/main/api/themes/light.json",
+    "Oceanic": "https://raw.githubusercontent.com/NotHammer043/nanoMIDIPlayer/refs/heads/main/api/themes/oceanic.json"
+  }
+}
