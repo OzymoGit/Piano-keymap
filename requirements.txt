@@ -1,0 +1,19 @@
+customtkinter
+mido
+keyboard
+pynput
+pywin32
+pillow
+requests
+python-rtmidi
+markdown
+tkinterweb[svg]
+pygments
+pyinstaller
+emoji
+yt-dlp
+imageio-ffmpeg
+librosa
+piano-transcription-inference
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu130
+soundfile
