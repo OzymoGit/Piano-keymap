@@ -1,0 +1,140 @@
+2026-06-07 13:35:59,262 [INFO] nanoMIDIPlayer: Logging initialized → C:\Users\haipr\Documents\nanoMIDIPlayer\logs\nanoMIDIPlayer_2026-06-07_13-35-59.log
+2026-06-07 13:35:59,262 [INFO] nanoMIDIPlayer: Application starting, logs at C:\Users\haipr\Documents\nanoMIDIPlayer\logs\nanoMIDIPlayer_2026-06-07_13-35-59.log
+2026-06-07 13:35:59,307 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:35:59,307 [DEBUG] PIL.PngImagePlugin: STREAM b'sRGB' 41 1
+2026-06-07 13:35:59,307 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 54 8192
+2026-06-07 13:35:59,330 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2026-06-07 13:35:59,902 [DEBUG] urllib3.connectionpool: https://raw.githubusercontent.com:443 "GET /NotHammer043/nanoMIDIPlayer/refs/heads/main/api/theme.json HTTP/1.1" 200 238
+2026-06-07 13:35:59,904 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2026-06-07 13:36:00,465 [DEBUG] urllib3.connectionpool: https://raw.githubusercontent.com:443 "GET /NotHammer043/nanoMIDIPlayer/refs/heads/main/api/themes/dark.json HTTP/1.1" 200 182661
+2026-06-07 13:36:02,151 [INFO] nanoMIDIPlayer: App initialized
+2026-06-07 13:36:02,176 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2026-06-07 13:36:02,509 [DEBUG] urllib3.connectionpool: https://raw.githubusercontent.com:443 "GET /NotHammer043/nanoMIDIPlayer/refs/heads/main/api/theme.json HTTP/1.1" 200 238
+2026-06-07 13:36:02,851 [DEBUG] modules.functions.mainFunctions: Hello! :)
+2026-06-07 13:36:03,151 [DEBUG] modules.functions.settingsFunctions: MidiCustomHoldLength status updated
+2026-06-07 13:36:03,155 [DEBUG] modules.functions.settingsFunctions: MidiRandomFail status updated
+2026-06-07 13:36:03,158 [DEBUG] modules.functions.settingsFunctions: DrumsCustomHoldLength status updated
+2026-06-07 13:36:03,160 [DEBUG] modules.functions.settingsFunctions: DrumsRandomFail status updated
+2026-06-07 13:36:03,161 [INFO] ui.info: InfoTab initialized
+2026-06-07 13:36:03,182 [DEBUG] ui.info: Initial loading message displayed
+2026-06-07 13:36:03,182 [DEBUG] ui.darwinPermission: initializing DarwinPermissionTab
+2026-06-07 13:36:03,184 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:36:03,184 [DEBUG] PIL.PngImagePlugin: STREAM b'sRGB' 41 1
+2026-06-07 13:36:03,184 [DEBUG] PIL.PngImagePlugin: STREAM b'eXIf' 54 68
+2026-06-07 13:36:03,184 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 134 16384
+2026-06-07 13:36:03,185 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:36:03,185 [DEBUG] PIL.PngImagePlugin: STREAM b'sRGB' 41 1
+2026-06-07 13:36:03,185 [DEBUG] PIL.PngImagePlugin: STREAM b'eXIf' 54 68
+2026-06-07 13:36:03,185 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 134 16384
+2026-06-07 13:36:03,432 [INFO] modules.functions.midiPlayerFunctions: loadSavedFile called
+2026-06-07 13:36:03,673 [INFO] modules.functions.drumsMacroFunctions: loadSavedFile called
+2026-06-07 13:36:03,675 [DEBUG] modules.functions.drumsMacroFunctions: no saved files found
+2026-06-07 13:36:03,676 [INFO] modules.functions.settingsFunctions: Control sets initialized
+2026-06-07 13:36:03,676 [INFO] modules.functions.mainFunctions: tabBind: 0
+2026-06-07 13:36:03,676 [DEBUG] modules.functions.mainFunctions: clearConsole
+2026-06-07 13:36:03,986 [INFO] ui.info: Attempting to fetch INFO.md from GitHub
+2026-06-07 13:36:03,986 [DEBUG] ui.info: Started background thread for loadContent
+2026-06-07 13:36:04,440 [INFO] ui.info: Fetched INFO.md successfully
+2026-06-07 13:36:04,453 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2026-06-07 13:36:04,454 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2026-06-07 13:36:04,454 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2026-06-07 13:36:04,455 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2026-06-07 13:36:04,455 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2026-06-07 13:36:04,456 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2026-06-07 13:36:04,456 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.md_in_html.MarkdownInHtmlExtension".
+2026-06-07 13:36:04,456 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.extra.ExtraExtension".
+2026-06-07 13:36:04,457 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2026-06-07 13:36:04,457 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2026-06-07 13:36:04,457 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2026-06-07 13:36:04,490 [INFO] ui.info: HTML content loaded into HtmlFrame
+2026-06-07 13:36:04,678 [DEBUG] modules.functions.mainFunctions: refreshInputDevices
+2026-06-07 13:36:04,701 [DEBUG] modules.functions.mainFunctions: input devices: ['loopMIDI Port 0']
+2026-06-07 13:36:04,728 [DEBUG] modules.functions.mainFunctions: refreshOutputDevices
+2026-06-07 13:36:04,729 [DEBUG] modules.functions.mainFunctions: output devices: ['Microsoft GS Wavetable Synth 0', 'loopMIDI Port 1']
+2026-06-07 13:36:04,793 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:36:04,793 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:36:04,794 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:36:04,794 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 713
+2026-06-07 13:36:04,795 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:36:04,796 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:36:04,796 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:36:04,796 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 952
+2026-06-07 13:36:04,797 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:36:04,797 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:36:04,798 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:36:04,798 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 722
+2026-06-07 13:36:04,802 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:36:04,803 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:36:04,803 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:36:04,803 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1106
+2026-06-07 13:36:04,803 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:36:04,803 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:36:04,804 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:36:04,804 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1180
+2026-06-07 13:36:04,806 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:36:04,806 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:36:04,807 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:36:04,807 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1337
+2026-06-07 13:36:04,816 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:36:04,816 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:36:04,816 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:36:04,817 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1791
+2026-06-07 13:36:04,817 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:36:04,817 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:36:04,817 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:36:04,817 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1179
+2026-06-07 13:36:04,819 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:36:04,819 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:36:04,819 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:36:04,819 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1737
+2026-06-07 13:36:04,821 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:36:04,821 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:36:04,821 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:36:04,821 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1975
+2026-06-07 13:36:04,822 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:36:04,822 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:36:04,822 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:36:04,822 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1184
+2026-06-07 13:36:04,823 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:36:04,823 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:36:04,823 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:36:04,823 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1810
+2026-06-07 13:36:04,823 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:36:04,823 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:36:04,823 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:36:04,823 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1792
+2026-06-07 13:36:04,826 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:36:04,826 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:36:04,826 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:36:04,826 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 651
+2026-06-07 13:36:04,827 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:36:04,827 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:36:04,827 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:36:04,827 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 892
+2026-06-07 13:36:05,190 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:36:05,190 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:36:05,191 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:36:05,191 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 767
+2026-06-07 13:36:05,245 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:36:05,246 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:36:05,246 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:36:05,246 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1200
+2026-06-07 13:36:05,298 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:36:05,299 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:36:05,299 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:36:05,299 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1437
+2026-06-07 13:36:05,456 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:36:05,456 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:36:05,457 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:36:05,457 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 8192
+2026-06-07 13:36:08,756 [INFO] modules.functions.midiPlayerFunctions: switchUseMIDI called
+2026-06-07 13:36:08,758 [DEBUG] modules.functions.mainFunctions: clearConsole
+2026-06-07 13:36:08,759 [DEBUG] modules.functions.mainFunctions: refreshOutputDevices
+2026-06-07 13:36:08,760 [DEBUG] modules.functions.mainFunctions: output devices: ['Microsoft GS Wavetable Synth 0', 'loopMIDI Port 1']
+2026-06-07 13:36:08,764 [DEBUG] modules.functions.mainFunctions: Macro Mode.
+2026-06-07 13:36:10,958 [INFO] modules.functions.mainFunctions: tabBind: 8
+2026-06-07 13:36:10,958 [DEBUG] modules.functions.mainFunctions: clearConsole
+2026-06-07 13:36:11,419 [INFO] modules.functions.mainFunctions: tabBind: 4
+2026-06-07 13:36:11,419 [DEBUG] modules.functions.mainFunctions: clearConsole
+2026-06-07 13:36:17,615 [INFO] modules.functions.settingsFunctions: MidiModule selected: keyboard
+2026-06-07 13:36:19,517 [INFO] modules.functions.settingsFunctions: MidiModule selected: pynput

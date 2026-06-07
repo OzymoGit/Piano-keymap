@@ -1,0 +1,12 @@
+2026-06-07 09:45:59,412 [INFO] nanoMIDIPlayer: Logging initialized → C:\Users\haipr\Documents\nanoMIDIPlayer\logs\nanoMIDIPlayer_2026-06-07_09-45-59.log
+2026-06-07 09:45:59,412 [INFO] nanoMIDIPlayer: Application starting, logs at C:\Users\haipr\Documents\nanoMIDIPlayer\logs\nanoMIDIPlayer_2026-06-07_09-45-59.log
+2026-06-07 09:45:59,458 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 09:45:59,459 [DEBUG] PIL.PngImagePlugin: STREAM b'sRGB' 41 1
+2026-06-07 09:45:59,459 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 54 8192
+2026-06-07 09:45:59,482 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2026-06-07 09:45:59,789 [DEBUG] urllib3.connectionpool: https://raw.githubusercontent.com:443 "GET /NotHammer043/nanoMIDIPlayer/refs/heads/main/api/theme.json HTTP/1.1" 200 238
+2026-06-07 09:45:59,790 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2026-06-07 09:46:00,115 [DEBUG] urllib3.connectionpool: https://raw.githubusercontent.com:443 "GET /NotHammer043/nanoMIDIPlayer/refs/heads/main/api/themes/dark.json HTTP/1.1" 200 182661
+2026-06-07 09:46:01,803 [INFO] nanoMIDIPlayer: App initialized
+2026-06-07 09:46:01,827 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2026-06-07 09:46:02,119 [DEBUG] urllib3.connectionpool: https://raw.githubusercontent.com:443 "GET /NotHammer043/nanoMIDIPlayer/refs/heads/main/api/theme.json HTTP/1.1" 200 238

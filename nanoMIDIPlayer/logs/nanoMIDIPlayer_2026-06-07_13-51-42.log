@@ -1,0 +1,250 @@
+2026-06-07 13:51:42,385 [INFO] nanoMIDIPlayer: Logging initialized → C:\Users\haipr\Documents\nanoMIDIPlayer\logs\nanoMIDIPlayer_2026-06-07_13-51-42.log
+2026-06-07 13:51:42,386 [INFO] nanoMIDIPlayer: Application starting, logs at C:\Users\haipr\Documents\nanoMIDIPlayer\logs\nanoMIDIPlayer_2026-06-07_13-51-42.log
+2026-06-07 13:51:42,428 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:51:42,428 [DEBUG] PIL.PngImagePlugin: STREAM b'sRGB' 41 1
+2026-06-07 13:51:42,428 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 54 8192
+2026-06-07 13:51:42,449 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2026-06-07 13:51:43,019 [DEBUG] urllib3.connectionpool: https://raw.githubusercontent.com:443 "GET /NotHammer043/nanoMIDIPlayer/refs/heads/main/api/theme.json HTTP/1.1" 200 238
+2026-06-07 13:51:43,020 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2026-06-07 13:51:43,603 [DEBUG] urllib3.connectionpool: https://raw.githubusercontent.com:443 "GET /NotHammer043/nanoMIDIPlayer/refs/heads/main/api/themes/dark.json HTTP/1.1" 200 182661
+2026-06-07 13:51:45,314 [INFO] nanoMIDIPlayer: App initialized
+2026-06-07 13:51:45,335 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2026-06-07 13:51:45,634 [DEBUG] urllib3.connectionpool: https://raw.githubusercontent.com:443 "GET /NotHammer043/nanoMIDIPlayer/refs/heads/main/api/theme.json HTTP/1.1" 200 238
+2026-06-07 13:51:46,035 [DEBUG] modules.functions.mainFunctions: Hello! :)
+2026-06-07 13:51:46,355 [DEBUG] modules.functions.settingsFunctions: MidiCustomHoldLength status updated
+2026-06-07 13:51:46,359 [DEBUG] modules.functions.settingsFunctions: MidiRandomFail status updated
+2026-06-07 13:51:46,362 [DEBUG] modules.functions.settingsFunctions: DrumsCustomHoldLength status updated
+2026-06-07 13:51:46,364 [DEBUG] modules.functions.settingsFunctions: DrumsRandomFail status updated
+2026-06-07 13:51:46,365 [INFO] ui.info: InfoTab initialized
+2026-06-07 13:51:46,387 [DEBUG] ui.info: Initial loading message displayed
+2026-06-07 13:51:46,388 [DEBUG] ui.darwinPermission: initializing DarwinPermissionTab
+2026-06-07 13:51:46,389 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:51:46,389 [DEBUG] PIL.PngImagePlugin: STREAM b'sRGB' 41 1
+2026-06-07 13:51:46,390 [DEBUG] PIL.PngImagePlugin: STREAM b'eXIf' 54 68
+2026-06-07 13:51:46,390 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 134 16384
+2026-06-07 13:51:46,390 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:51:46,390 [DEBUG] PIL.PngImagePlugin: STREAM b'sRGB' 41 1
+2026-06-07 13:51:46,390 [DEBUG] PIL.PngImagePlugin: STREAM b'eXIf' 54 68
+2026-06-07 13:51:46,390 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 134 16384
+2026-06-07 13:51:46,643 [INFO] modules.functions.midiPlayerFunctions: loadSavedFile called
+2026-06-07 13:51:48,179 [INFO] modules.functions.drumsMacroFunctions: loadSavedFile called
+2026-06-07 13:51:48,181 [DEBUG] modules.functions.drumsMacroFunctions: no saved files found
+2026-06-07 13:51:48,182 [INFO] modules.functions.settingsFunctions: Control sets initialized
+2026-06-07 13:51:48,182 [INFO] modules.functions.mainFunctions: tabBind: 0
+2026-06-07 13:51:48,182 [DEBUG] modules.functions.mainFunctions: clearConsole
+2026-06-07 13:51:49,348 [INFO] ui.info: Attempting to fetch INFO.md from GitHub
+2026-06-07 13:51:49,348 [DEBUG] ui.info: Started background thread for loadContent
+2026-06-07 13:51:49,349 [DEBUG] modules.functions.mainFunctions: refreshInputDevices
+2026-06-07 13:51:49,396 [DEBUG] modules.functions.mainFunctions: input devices: ['loopMIDI Port 0']
+2026-06-07 13:51:49,398 [DEBUG] modules.functions.mainFunctions: refreshOutputDevices
+2026-06-07 13:51:49,399 [DEBUG] modules.functions.mainFunctions: output devices: ['Microsoft GS Wavetable Synth 0', 'loopMIDI Port 1']
+2026-06-07 13:51:49,785 [INFO] ui.info: Fetched INFO.md successfully
+2026-06-07 13:51:49,799 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2026-06-07 13:51:49,800 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2026-06-07 13:51:49,800 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2026-06-07 13:51:49,801 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2026-06-07 13:51:49,801 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2026-06-07 13:51:49,802 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2026-06-07 13:51:49,802 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.md_in_html.MarkdownInHtmlExtension".
+2026-06-07 13:51:49,802 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.extra.ExtraExtension".
+2026-06-07 13:51:49,803 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2026-06-07 13:51:49,804 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2026-06-07 13:51:49,804 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2026-06-07 13:51:49,839 [INFO] ui.info: HTML content loaded into HtmlFrame
+2026-06-07 13:51:50,341 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:51:50,341 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:51:50,342 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:51:50,342 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 651
+2026-06-07 13:51:50,395 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:51:50,395 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:51:50,396 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:51:50,396 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 722
+2026-06-07 13:51:50,397 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:51:50,398 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:51:50,398 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:51:50,399 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1106
+2026-06-07 13:51:50,400 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:51:50,400 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:51:50,400 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:51:50,400 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1200
+2026-06-07 13:51:50,401 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:51:50,401 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:51:50,402 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:51:50,402 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 952
+2026-06-07 13:51:50,403 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:51:50,403 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:51:50,403 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:51:50,404 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1180
+2026-06-07 13:51:50,405 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:51:50,405 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:51:50,405 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:51:50,405 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 713
+2026-06-07 13:51:50,406 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:51:50,407 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:51:50,408 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:51:50,408 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1737
+2026-06-07 13:51:50,409 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:51:50,409 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:51:50,409 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:51:50,409 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1179
+2026-06-07 13:51:50,461 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:51:50,461 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:51:50,462 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:51:50,462 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1791
+2026-06-07 13:51:50,463 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:51:50,463 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:51:50,463 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:51:50,463 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1337
+2026-06-07 13:51:50,464 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:51:50,464 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:51:50,464 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:51:50,464 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 767
+2026-06-07 13:51:50,465 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:51:50,465 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:51:50,465 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:51:50,465 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1184
+2026-06-07 13:51:50,465 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:51:50,466 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:51:50,466 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:51:50,466 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1437
+2026-06-07 13:51:50,466 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:51:50,466 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:51:50,467 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:51:50,467 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1792
+2026-06-07 13:51:50,518 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:51:50,518 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:51:50,519 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:51:50,519 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1975
+2026-06-07 13:51:50,623 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:51:50,623 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:51:50,623 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:51:50,623 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 892
+2026-06-07 13:51:50,727 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:51:50,727 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:51:50,727 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:51:50,728 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1810
+2026-06-07 13:51:51,102 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:51:51,102 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:51:51,103 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:51:51,103 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 8192
+2026-06-07 13:51:51,291 [INFO] modules.functions.mainFunctions: tabBind: 4
+2026-06-07 13:51:51,291 [DEBUG] modules.functions.mainFunctions: clearConsole
+2026-06-07 13:51:59,613 [INFO] modules.functions.mainFunctions: tabBind: 0
+2026-06-07 13:51:59,613 [DEBUG] modules.functions.mainFunctions: clearConsole
+2026-06-07 13:52:00,996 [INFO] modules.functions.midiPlayerFunctions: playButton called
+2026-06-07 13:52:00,997 [INFO] modules.functions.midiPlayerFunctions: startPlayback called, offset=0.0
+2026-06-07 13:52:00,998 [DEBUG] modules.functions.midiPlayerFunctions: startPlayback midiFile: C:\Users\haipr\Documents\nanoMIDIPlayer\Midis\Piano Collection Vol5  Nhạc V-Pop tuyển chọn  3 hour Playlist  Alice Piano.mid
+2026-06-07 13:52:02,208 [DEBUG] modules.functions.mainFunctions: starting logWorker thread
+2026-06-07 13:52:02,208 [DEBUG] modules.functions.midiPlayerFunctions: midiHandler.startPlayback called
+2026-06-07 13:52:02,209 [DEBUG] modules.functions.mainFunctions: logWorker started
+2026-06-07 13:52:02,209 [DEBUG] modules.functions.mainFunctions: Playing MIDI file: C:\Users\haipr\Documents\nanoMIDIPlayer\Midis\Piano Collection Vol5  Nhạc V-Pop tuyển chọn  3 hour Playlist  Alice Piano.mid
+2026-06-07 13:52:04,083 [DEBUG] modules.functions.mainFunctions: press: alt
+2026-06-07 13:52:04,135 [DEBUG] modules.functions.mainFunctions: press: q+space
+2026-06-07 13:52:05,595 [DEBUG] modules.functions.mainFunctions: release: alt+q+space
+2026-06-07 13:52:05,646 [DEBUG] modules.functions.mainFunctions: release: z
+2026-06-07 13:52:05,697 [DEBUG] modules.functions.mainFunctions: press: space+z
+2026-06-07 13:52:05,868 [DEBUG] modules.functions.mainFunctions: release: z
+2026-06-07 13:52:05,919 [DEBUG] modules.functions.mainFunctions: release: z
+2026-06-07 13:52:06,095 [DEBUG] modules.functions.mainFunctions: press: alt+z
+2026-06-07 13:52:06,146 [DEBUG] modules.functions.mainFunctions: press: c+o+y
+2026-06-07 13:52:06,309 [DEBUG] modules.functions.mainFunctions: press: c+o+space+y
+2026-06-07 13:52:06,769 [DEBUG] modules.functions.mainFunctions: release: o+space+y
+2026-06-07 13:52:06,821 [DEBUG] modules.functions.mainFunctions: press: c+o+space+y
+2026-06-07 13:52:07,671 [INFO] modules.functions.midiPlayerFunctions: playButton called
+2026-06-07 13:52:07,672 [INFO] modules.functions.midiPlayerFunctions: pausePlayback called
+2026-06-07 13:52:07,672 [DEBUG] modules.functions.midiPlayerFunctions: midiHandler.paused: True
+2026-06-07 13:52:07,672 [DEBUG] modules.functions.mainFunctions: Playback paused.
+2026-06-07 13:52:07,673 [DEBUG] modules.functions.midiPlayerFunctions: pausePlayback state updated
+2026-06-07 13:52:08,209 [INFO] modules.functions.mainFunctions: tabBind: 4
+2026-06-07 13:52:08,210 [DEBUG] modules.functions.mainFunctions: clearConsole
+2026-06-07 13:52:10,519 [INFO] modules.functions.settingsFunctions: MidiModule selected: keyboard
+2026-06-07 13:52:11,423 [INFO] modules.functions.mainFunctions: tabBind: 0
+2026-06-07 13:52:11,424 [DEBUG] modules.functions.mainFunctions: clearConsole
+2026-06-07 13:52:16,598 [INFO] modules.functions.midiPlayerFunctions: playButton called
+2026-06-07 13:52:16,598 [INFO] modules.functions.midiPlayerFunctions: pausePlayback called
+2026-06-07 13:52:16,598 [DEBUG] modules.functions.midiPlayerFunctions: midiHandler.paused: False
+2026-06-07 13:52:16,598 [DEBUG] modules.functions.mainFunctions: Playback resumed.
+2026-06-07 13:52:16,600 [DEBUG] modules.functions.midiPlayerFunctions: pausePlayback state updated
+2026-06-07 13:52:16,734 [DEBUG] modules.functions.mainFunctions: press: alt+c+o+space+y
+2026-06-07 13:52:16,786 [DEBUG] modules.functions.mainFunctions: press: c+j+o+space
+2026-06-07 13:52:16,842 [DEBUG] modules.functions.mainFunctions: release: c+j+o
+2026-06-07 13:52:16,981 [DEBUG] modules.functions.mainFunctions: press: alt+c+j+o
+2026-06-07 13:52:17,032 [DEBUG] modules.functions.mainFunctions: press: =+b+j
+2026-06-07 13:52:17,354 [DEBUG] modules.functions.mainFunctions: release: =+j
+2026-06-07 13:52:17,405 [DEBUG] modules.functions.mainFunctions: press: =+b+j
+2026-06-07 13:52:17,456 [DEBUG] modules.functions.mainFunctions: press: =+b+n
+2026-06-07 13:52:17,507 [DEBUG] modules.functions.mainFunctions: press: b+i+n
+2026-06-07 13:52:17,558 [DEBUG] modules.functions.mainFunctions: press: b+i+n+space
+2026-06-07 13:52:17,694 [DEBUG] modules.functions.mainFunctions: release: i+n+space
+2026-06-07 13:52:17,939 [DEBUG] modules.functions.mainFunctions: press: alt+i+n+space
+2026-06-07 13:52:17,992 [DEBUG] modules.functions.mainFunctions: press: ]+b+i+space
+2026-06-07 13:52:18,436 [DEBUG] modules.functions.mainFunctions: press: ]+alt+b+i+space
+2026-06-07 13:52:18,487 [DEBUG] modules.functions.mainFunctions: press: ]+b+c+space
+2026-06-07 13:52:18,740 [DEBUG] modules.functions.mainFunctions: release: ]+b+c
+2026-06-07 13:52:18,790 [DEBUG] modules.functions.mainFunctions: release: c
+2026-06-07 13:52:18,919 [DEBUG] modules.functions.mainFunctions: release: c
+2026-06-07 13:52:18,970 [DEBUG] modules.functions.mainFunctions: press: 0
+2026-06-07 13:52:19,104 [DEBUG] modules.functions.mainFunctions: press: 0+space
+2026-06-07 13:52:19,155 [DEBUG] modules.functions.mainFunctions: press: space+t
+2026-06-07 13:52:19,411 [DEBUG] modules.functions.mainFunctions: press: alt+space+t
+2026-06-07 13:52:19,462 [DEBUG] modules.functions.mainFunctions: press: p+t
+2026-06-07 13:52:19,709 [DEBUG] modules.functions.mainFunctions: press: alt+p+t
+2026-06-07 13:52:19,761 [DEBUG] modules.functions.mainFunctions: press: \+p
+2026-06-07 13:52:20,713 [DEBUG] modules.functions.mainFunctions: release: \
+2026-06-07 13:52:20,765 [DEBUG] modules.functions.mainFunctions: release: space
+2026-06-07 13:52:20,816 [DEBUG] modules.functions.mainFunctions: press: l
+2026-06-07 13:52:20,867 [DEBUG] modules.functions.mainFunctions: press: '
+2026-06-07 13:52:20,918 [DEBUG] modules.functions.mainFunctions: press: 6
+2026-06-07 13:52:20,968 [DEBUG] modules.functions.mainFunctions: press: z
+2026-06-07 13:52:21,125 [DEBUG] modules.functions.mainFunctions: press: space+z
+2026-06-07 13:52:21,176 [DEBUG] modules.functions.mainFunctions: press: q+space
+2026-06-07 13:52:21,227 [DEBUG] modules.functions.mainFunctions: release: q+space
+2026-06-07 13:52:21,359 [DEBUG] modules.functions.mainFunctions: press: alt+q+space
+2026-06-07 13:52:21,411 [DEBUG] modules.functions.mainFunctions: press: q+space+y
+2026-06-07 13:52:21,595 [DEBUG] modules.functions.mainFunctions: release: q+space+y
+2026-06-07 13:52:21,646 [DEBUG] modules.functions.mainFunctions: press: q+space+y+z
+2026-06-07 13:52:21,824 [DEBUG] modules.functions.mainFunctions: release: q+space+y
+2026-06-07 13:52:21,875 [DEBUG] modules.functions.mainFunctions: press: p+q+y+z
+2026-06-07 13:52:22,333 [INFO] modules.functions.midiPlayerFunctions: pausePlayback called
+2026-06-07 13:52:22,333 [DEBUG] modules.functions.midiPlayerFunctions: midiHandler.paused: True
+2026-06-07 13:52:22,333 [DEBUG] modules.functions.mainFunctions: Playback paused.
+2026-06-07 13:52:22,345 [DEBUG] modules.functions.midiPlayerFunctions: pausePlayback state updated
+2026-06-07 13:52:23,511 [INFO] modules.functions.mainFunctions: tabBind: 4
+2026-06-07 13:52:23,511 [DEBUG] modules.functions.mainFunctions: clearConsole
+2026-06-07 13:52:26,767 [INFO] modules.functions.settingsFunctions: MidiModule selected: win32msg
+2026-06-07 13:52:30,957 [INFO] modules.functions.mainFunctions: tabBind: 0
+2026-06-07 13:52:30,958 [DEBUG] modules.functions.mainFunctions: clearConsole
+2026-06-07 13:52:31,748 [INFO] modules.functions.midiPlayerFunctions: playButton called
+2026-06-07 13:52:31,748 [INFO] modules.functions.midiPlayerFunctions: pausePlayback called
+2026-06-07 13:52:31,750 [DEBUG] modules.functions.midiPlayerFunctions: midiHandler.paused: False
+2026-06-07 13:52:31,750 [DEBUG] modules.functions.mainFunctions: Playback resumed.
+2026-06-07 13:52:31,751 [DEBUG] modules.functions.midiPlayerFunctions: pausePlayback state updated
+2026-06-07 13:52:31,985 [DEBUG] modules.functions.mainFunctions: press: alt+p+q+y+z
+2026-06-07 13:52:32,036 [DEBUG] modules.functions.mainFunctions: press: l+p+y+z
+2026-06-07 13:52:32,155 [DEBUG] modules.functions.mainFunctions: release: l+p+y+z
+2026-06-07 13:52:32,207 [DEBUG] modules.functions.mainFunctions: release: l
+2026-06-07 13:52:32,258 [DEBUG] modules.functions.mainFunctions: press: j
+2026-06-07 13:52:32,310 [DEBUG] modules.functions.mainFunctions: press: 5
+2026-06-07 13:52:32,361 [DEBUG] modules.functions.mainFunctions: press: 5+space
+2026-06-07 13:52:32,484 [DEBUG] modules.functions.mainFunctions: press: 5+alt+space
+2026-06-07 13:52:32,535 [DEBUG] modules.functions.mainFunctions: press: =+space
+2026-06-07 13:52:32,903 [DEBUG] modules.functions.mainFunctions: release: =+space
+2026-06-07 13:52:32,954 [DEBUG] modules.functions.mainFunctions: press: b+j+q
+2026-06-07 13:52:33,224 [DEBUG] modules.functions.mainFunctions: press: alt+b+j+q
+2026-06-07 13:52:33,276 [DEBUG] modules.functions.mainFunctions: press: i+j
+2026-06-07 13:52:33,893 [DEBUG] modules.functions.mainFunctions: release: i
+2026-06-07 13:52:33,945 [DEBUG] modules.functions.mainFunctions: press: b+j
+2026-06-07 13:52:34,101 [DEBUG] modules.functions.mainFunctions: release: b+j
+2026-06-07 13:52:34,152 [DEBUG] modules.functions.mainFunctions: release: b
+2026-06-07 13:52:34,204 [DEBUG] modules.functions.mainFunctions: press: 3
+2026-06-07 13:52:34,283 [DEBUG] modules.functions.mainFunctions: press: 3+space
+2026-06-07 13:52:34,390 [DEBUG] modules.functions.mainFunctions: press: 3+alt+e+space
+2026-06-07 13:52:34,441 [DEBUG] modules.functions.mainFunctions: press: 0+space
+2026-06-07 13:52:34,627 [DEBUG] modules.functions.mainFunctions: press: 0+alt+space
+2026-06-07 13:52:34,679 [DEBUG] modules.functions.mainFunctions: press: 0+e
+2026-06-07 13:52:34,839 [DEBUG] modules.functions.mainFunctions: press: 0+alt+e
+2026-06-07 13:52:34,891 [DEBUG] modules.functions.mainFunctions: press: j+y
+2026-06-07 13:52:35,030 [INFO] modules.functions.midiPlayerFunctions: pausePlayback called
+2026-06-07 13:52:35,031 [DEBUG] modules.functions.midiPlayerFunctions: midiHandler.paused: True
+2026-06-07 13:52:35,031 [DEBUG] modules.functions.mainFunctions: Playback paused.
+2026-06-07 13:52:35,041 [DEBUG] modules.functions.midiPlayerFunctions: pausePlayback state updated

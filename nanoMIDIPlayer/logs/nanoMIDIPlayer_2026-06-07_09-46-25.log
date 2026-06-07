@@ -1,0 +1,960 @@
+2026-06-07 09:46:25,430 [INFO] nanoMIDIPlayer: Logging initialized → C:\Users\haipr\Documents\nanoMIDIPlayer\logs\nanoMIDIPlayer_2026-06-07_09-46-25.log
+2026-06-07 09:46:25,430 [INFO] nanoMIDIPlayer: Application starting, logs at C:\Users\haipr\Documents\nanoMIDIPlayer\logs\nanoMIDIPlayer_2026-06-07_09-46-25.log
+2026-06-07 09:46:25,462 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 09:46:25,463 [DEBUG] PIL.PngImagePlugin: STREAM b'sRGB' 41 1
+2026-06-07 09:46:25,463 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 54 8192
+2026-06-07 09:46:25,485 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2026-06-07 09:46:25,780 [DEBUG] urllib3.connectionpool: https://raw.githubusercontent.com:443 "GET /NotHammer043/nanoMIDIPlayer/refs/heads/main/api/theme.json HTTP/1.1" 200 238
+2026-06-07 09:46:25,781 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2026-06-07 09:46:26,074 [DEBUG] urllib3.connectionpool: https://raw.githubusercontent.com:443 "GET /NotHammer043/nanoMIDIPlayer/refs/heads/main/api/themes/dark.json HTTP/1.1" 200 182661
+2026-06-07 09:46:27,759 [INFO] nanoMIDIPlayer: App initialized
+2026-06-07 09:46:27,783 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2026-06-07 09:46:28,336 [DEBUG] urllib3.connectionpool: https://raw.githubusercontent.com:443 "GET /NotHammer043/nanoMIDIPlayer/refs/heads/main/api/theme.json HTTP/1.1" 200 238
+2026-06-07 09:46:28,642 [DEBUG] modules.functions.mainFunctions: Hello! :)
+2026-06-07 09:46:28,914 [DEBUG] modules.functions.settingsFunctions: MidiCustomHoldLength status updated
+2026-06-07 09:46:28,918 [DEBUG] modules.functions.settingsFunctions: MidiRandomFail status updated
+2026-06-07 09:46:28,921 [DEBUG] modules.functions.settingsFunctions: DrumsCustomHoldLength status updated
+2026-06-07 09:46:28,923 [DEBUG] modules.functions.settingsFunctions: DrumsRandomFail status updated
+2026-06-07 09:46:28,924 [INFO] ui.info: InfoTab initialized
+2026-06-07 09:46:28,945 [DEBUG] ui.info: Initial loading message displayed
+2026-06-07 09:46:28,946 [DEBUG] ui.darwinPermission: initializing DarwinPermissionTab
+2026-06-07 09:46:28,948 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 09:46:28,948 [DEBUG] PIL.PngImagePlugin: STREAM b'sRGB' 41 1
+2026-06-07 09:46:28,948 [DEBUG] PIL.PngImagePlugin: STREAM b'eXIf' 54 68
+2026-06-07 09:46:28,948 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 134 16384
+2026-06-07 09:46:28,949 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 09:46:28,949 [DEBUG] PIL.PngImagePlugin: STREAM b'sRGB' 41 1
+2026-06-07 09:46:28,949 [DEBUG] PIL.PngImagePlugin: STREAM b'eXIf' 54 68
+2026-06-07 09:46:28,949 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 134 16384
+2026-06-07 09:46:29,194 [INFO] modules.functions.midiPlayerFunctions: loadSavedFile called
+2026-06-07 09:46:29,419 [INFO] modules.functions.drumsMacroFunctions: loadSavedFile called
+2026-06-07 09:46:29,422 [DEBUG] modules.functions.drumsMacroFunctions: no saved files found
+2026-06-07 09:46:29,422 [INFO] modules.functions.settingsFunctions: Control sets initialized
+2026-06-07 09:46:29,423 [INFO] modules.functions.mainFunctions: tabBind: 0
+2026-06-07 09:46:29,423 [DEBUG] modules.functions.mainFunctions: clearConsole
+2026-06-07 09:46:29,702 [INFO] ui.info: Attempting to fetch INFO.md from GitHub
+2026-06-07 09:46:29,702 [DEBUG] ui.info: Started background thread for loadContent
+2026-06-07 09:46:29,884 [INFO] ui.info: Fetched INFO.md successfully
+2026-06-07 09:46:29,958 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2026-06-07 09:46:29,959 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2026-06-07 09:46:29,959 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2026-06-07 09:46:29,959 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2026-06-07 09:46:29,960 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2026-06-07 09:46:29,961 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2026-06-07 09:46:29,961 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.md_in_html.MarkdownInHtmlExtension".
+2026-06-07 09:46:29,961 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.extra.ExtraExtension".
+2026-06-07 09:46:29,962 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2026-06-07 09:46:29,962 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2026-06-07 09:46:29,962 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2026-06-07 09:46:29,992 [INFO] ui.info: HTML content loaded into HtmlFrame
+2026-06-07 09:46:30,229 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 09:46:30,229 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 09:46:30,230 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 09:46:30,230 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 713
+2026-06-07 09:46:30,231 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 09:46:30,231 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 09:46:30,231 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 09:46:30,231 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 952
+2026-06-07 09:46:30,232 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 09:46:30,232 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 09:46:30,236 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 09:46:30,236 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1106
+2026-06-07 09:46:30,238 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 09:46:30,238 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 09:46:30,239 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 09:46:30,239 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 722
+2026-06-07 09:46:30,239 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 09:46:30,239 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 09:46:30,240 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 09:46:30,240 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1180
+2026-06-07 09:46:30,242 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 09:46:30,243 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 09:46:30,243 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 09:46:30,243 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 767
+2026-06-07 09:46:30,243 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 09:46:30,243 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 09:46:30,244 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 09:46:30,244 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1337
+2026-06-07 09:46:30,244 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 09:46:30,244 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 09:46:30,244 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 09:46:30,245 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1179
+2026-06-07 09:46:30,245 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 09:46:30,245 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 09:46:30,246 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 09:46:30,246 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1975
+2026-06-07 09:46:30,246 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 09:46:30,246 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 09:46:30,247 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 09:46:30,247 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1200
+2026-06-07 09:46:30,247 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 09:46:30,248 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 09:46:30,248 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 09:46:30,249 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1791
+2026-06-07 09:46:30,249 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 09:46:30,250 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 09:46:30,250 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 09:46:30,250 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1437
+2026-06-07 09:46:30,250 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 09:46:30,250 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 09:46:30,251 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 09:46:30,251 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1737
+2026-06-07 09:46:30,251 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 09:46:30,251 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 09:46:30,252 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 09:46:30,252 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1184
+2026-06-07 09:46:30,252 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 09:46:30,252 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 09:46:30,252 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 09:46:30,252 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1810
+2026-06-07 09:46:30,253 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 09:46:30,253 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 09:46:30,253 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 09:46:30,253 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1792
+2026-06-07 09:46:30,256 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 09:46:30,256 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 09:46:30,256 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 09:46:30,256 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 892
+2026-06-07 09:46:30,423 [DEBUG] modules.functions.mainFunctions: refreshInputDevices
+2026-06-07 09:46:30,457 [DEBUG] modules.functions.mainFunctions: input devices: ['loopMIDI Port 0']
+2026-06-07 09:46:30,459 [DEBUG] modules.functions.mainFunctions: refreshOutputDevices
+2026-06-07 09:46:30,459 [DEBUG] modules.functions.mainFunctions: output devices: ['Microsoft GS Wavetable Synth 0', 'loopMIDI Port 1']
+2026-06-07 09:46:30,995 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 09:46:30,995 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 09:46:30,995 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 09:46:30,995 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 8192
+2026-06-07 09:46:35,996 [INFO] modules.functions.midiPlayerFunctions: stopPlayback called
+2026-06-07 09:46:35,996 [INFO] modules.functions.midiPlayerFunctions: startPlayback called, offset=0.0
+2026-06-07 09:46:35,997 [DEBUG] modules.functions.midiPlayerFunctions: startPlayback midiFile: C:\Users\haipr\Documents\nanoMIDIPlayer\Midis\có hẹn với thanh xuân - MONSTAR  PIANO For BEGINNERS.mid
+2026-06-07 09:46:36,007 [DEBUG] modules.functions.mainFunctions: starting logWorker thread
+2026-06-07 09:46:36,007 [DEBUG] modules.functions.midiPlayerFunctions: midiHandler.startPlayback called
+2026-06-07 09:46:36,008 [DEBUG] modules.functions.mainFunctions: logWorker started
+2026-06-07 09:46:36,008 [DEBUG] modules.functions.mainFunctions: Playing MIDI file: C:\Users\haipr\Documents\nanoMIDIPlayer\Midis\có hẹn với thanh xuân - MONSTAR  PIANO For BEGINNERS.mid
+2026-06-07 09:46:36,436 [DEBUG] modules.functions.mainFunctions: press: space
+2026-06-07 09:46:37,831 [DEBUG] modules.functions.mainFunctions: release: space
+2026-06-07 09:46:37,899 [DEBUG] modules.functions.mainFunctions: press: alt
+2026-06-07 09:46:37,950 [DEBUG] modules.functions.mainFunctions: press: v
+2026-06-07 09:46:38,001 [DEBUG] modules.functions.mainFunctions: press: space+v
+2026-06-07 09:46:38,185 [DEBUG] modules.functions.mainFunctions: press: alt+space+v
+2026-06-07 09:46:38,236 [DEBUG] modules.functions.mainFunctions: press: b+space
+2026-06-07 09:46:38,461 [DEBUG] modules.functions.mainFunctions: release: b+space
+2026-06-07 09:46:38,512 [DEBUG] modules.functions.mainFunctions: release: b+z
+2026-06-07 09:46:38,563 [DEBUG] modules.functions.mainFunctions: press: b+space+z
+2026-06-07 09:46:38,757 [DEBUG] modules.functions.mainFunctions: press: alt+b+space+z
+2026-06-07 09:46:38,808 [DEBUG] modules.functions.mainFunctions: press: space+x+z
+2026-06-07 09:46:39,036 [DEBUG] modules.functions.mainFunctions: release: x+z
+2026-06-07 09:46:39,087 [DEBUG] modules.functions.mainFunctions: release: b+down+x
+2026-06-07 09:46:39,322 [DEBUG] modules.functions.mainFunctions: press: b+down+space+x
+2026-06-07 09:46:40,162 [DEBUG] modules.functions.mainFunctions: release: down+space+x
+2026-06-07 09:46:40,212 [DEBUG] modules.functions.mainFunctions: release: c+x
+2026-06-07 09:46:40,382 [DEBUG] modules.functions.mainFunctions: press: c+space+x
+2026-06-07 09:46:40,472 [DEBUG] modules.functions.mainFunctions: press: alt+c+space+x
+2026-06-07 09:46:40,522 [DEBUG] modules.functions.mainFunctions: press: b+c+space+x
+2026-06-07 09:46:40,756 [DEBUG] modules.functions.mainFunctions: press: alt+b+c+space+x
+2026-06-07 09:46:40,806 [DEBUG] modules.functions.mainFunctions: release: b+m+x
+2026-06-07 09:46:41,038 [DEBUG] modules.functions.mainFunctions: release: b+x
+2026-06-07 09:46:41,089 [DEBUG] modules.functions.mainFunctions: press: b+space+x+z
+2026-06-07 09:46:41,140 [DEBUG] modules.functions.mainFunctions: release: b+space+z
+2026-06-07 09:46:41,327 [DEBUG] modules.functions.mainFunctions: press: alt+b+space+z
+2026-06-07 09:46:41,379 [DEBUG] modules.functions.mainFunctions: release: n+z
+2026-06-07 09:46:41,430 [DEBUG] modules.functions.mainFunctions: release: n+z
+2026-06-07 09:46:41,592 [DEBUG] modules.functions.mainFunctions: press: n+space+z
+2026-06-07 09:46:42,391 [DEBUG] modules.functions.mainFunctions: release: n+space
+2026-06-07 09:46:42,442 [DEBUG] modules.functions.mainFunctions: release: n
+2026-06-07 09:46:42,494 [DEBUG] modules.functions.mainFunctions: press: x+z
+2026-06-07 09:46:42,632 [DEBUG] modules.functions.mainFunctions: press: space+x+z
+2026-06-07 09:46:42,757 [DEBUG] modules.functions.mainFunctions: press: alt+space+x+z
+2026-06-07 09:46:42,808 [DEBUG] modules.functions.mainFunctions: press: b+space+z
+2026-06-07 09:46:43,008 [DEBUG] modules.functions.mainFunctions: release: b+z
+2026-06-07 09:46:43,059 [DEBUG] modules.functions.mainFunctions: press: b+z
+2026-06-07 09:46:43,192 [DEBUG] modules.functions.mainFunctions: press: b+space+z
+2026-06-07 09:46:43,300 [DEBUG] modules.functions.mainFunctions: release: b+z
+2026-06-07 09:46:43,352 [DEBUG] modules.functions.mainFunctions: press: space+x+z
+2026-06-07 09:46:43,614 [DEBUG] modules.functions.mainFunctions: press: alt+space+x+z
+2026-06-07 09:46:43,665 [DEBUG] modules.functions.mainFunctions: release: h
+2026-06-07 09:46:43,812 [DEBUG] modules.functions.mainFunctions: press: h+space
+2026-06-07 09:46:43,862 [DEBUG] modules.functions.mainFunctions: release: h
+2026-06-07 09:46:43,913 [DEBUG] modules.functions.mainFunctions: release: c+h
+2026-06-07 09:46:43,964 [DEBUG] modules.functions.mainFunctions: press: c+h+space
+2026-06-07 09:46:44,185 [DEBUG] modules.functions.mainFunctions: release: h+space
+2026-06-07 09:46:44,237 [DEBUG] modules.functions.mainFunctions: release: up
+2026-06-07 09:46:44,287 [DEBUG] modules.functions.mainFunctions: press: space
+2026-06-07 09:46:44,472 [DEBUG] modules.functions.mainFunctions: press: alt+space
+2026-06-07 09:46:44,523 [DEBUG] modules.functions.mainFunctions: press: c+space
+2026-06-07 09:46:44,757 [DEBUG] modules.functions.mainFunctions: release: c+space
+2026-06-07 09:46:44,808 [DEBUG] modules.functions.mainFunctions: press: c+down+n
+2026-06-07 09:46:44,861 [DEBUG] modules.functions.mainFunctions: press: c+down+n+space
+2026-06-07 09:46:44,921 [DEBUG] modules.functions.mainFunctions: release: c+down+n+space
+2026-06-07 09:46:45,317 [DEBUG] modules.functions.mainFunctions: release: c+down+space
+2026-06-07 09:46:45,368 [DEBUG] modules.functions.mainFunctions: release: c+z
+2026-06-07 09:46:45,420 [DEBUG] modules.functions.mainFunctions: press: c+space+z
+2026-06-07 09:46:45,622 [DEBUG] modules.functions.mainFunctions: release: space+z
+2026-06-07 09:46:45,900 [DEBUG] modules.functions.mainFunctions: press: alt+space+z
+2026-06-07 09:46:45,951 [DEBUG] modules.functions.mainFunctions: release: c+z
+2026-06-07 09:46:46,062 [DEBUG] modules.functions.mainFunctions: press: c+space+z
+2026-06-07 09:46:47,032 [DEBUG] modules.functions.mainFunctions: release: c+space
+2026-06-07 09:46:47,084 [DEBUG] modules.functions.mainFunctions: press: down+v
+2026-06-07 09:46:47,162 [DEBUG] modules.functions.mainFunctions: press: down+space+v
+2026-06-07 09:46:47,329 [DEBUG] modules.functions.mainFunctions: press: alt+down+space+v
+2026-06-07 09:46:47,380 [DEBUG] modules.functions.mainFunctions: press: b+space+v
+2026-06-07 09:46:47,603 [DEBUG] modules.functions.mainFunctions: release: b+space+v
+2026-06-07 09:46:47,655 [DEBUG] modules.functions.mainFunctions: release: b+v+z
+2026-06-07 09:46:47,705 [DEBUG] modules.functions.mainFunctions: press: b+space+v+z
+2026-06-07 09:46:47,900 [DEBUG] modules.functions.mainFunctions: press: alt+b+space+v+z
+2026-06-07 09:46:47,952 [DEBUG] modules.functions.mainFunctions: press: b+space+x+z
+2026-06-07 09:46:48,179 [DEBUG] modules.functions.mainFunctions: release: b+x+z
+2026-06-07 09:46:48,230 [DEBUG] modules.functions.mainFunctions: release: b+x
+2026-06-07 09:46:48,461 [DEBUG] modules.functions.mainFunctions: press: b+space+x
+2026-06-07 09:46:49,171 [DEBUG] modules.functions.mainFunctions: release: space+x
+2026-06-07 09:46:49,322 [DEBUG] modules.functions.mainFunctions: release: space
+2026-06-07 09:46:49,374 [DEBUG] modules.functions.mainFunctions: release: c+x
+2026-06-07 09:46:49,451 [DEBUG] modules.functions.mainFunctions: press: c+space+x
+2026-06-07 09:46:49,615 [DEBUG] modules.functions.mainFunctions: press: alt+c+space+x
+2026-06-07 09:46:49,666 [DEBUG] modules.functions.mainFunctions: press: b+c+space+x
+2026-06-07 09:46:49,899 [DEBUG] modules.functions.mainFunctions: press: alt+b+c+space+x
+2026-06-07 09:46:49,950 [DEBUG] modules.functions.mainFunctions: release: b+m+x
+2026-06-07 09:46:50,152 [DEBUG] modules.functions.mainFunctions: press: b+m+space+x
+2026-06-07 09:46:50,203 [DEBUG] modules.functions.mainFunctions: press: b+x+z
+2026-06-07 09:46:50,255 [DEBUG] modules.functions.mainFunctions: press: b+space+x+z
+2026-06-07 09:46:50,305 [DEBUG] modules.functions.mainFunctions: release: b+space+z
+2026-06-07 09:46:50,469 [DEBUG] modules.functions.mainFunctions: press: alt+b+space+z
+2026-06-07 09:46:50,520 [DEBUG] modules.functions.mainFunctions: release: b+n+z
+2026-06-07 09:46:50,652 [DEBUG] modules.functions.mainFunctions: press: b+n+space+z
+2026-06-07 09:46:50,811 [DEBUG] modules.functions.mainFunctions: release: n+space+z
+2026-06-07 09:46:51,542 [DEBUG] modules.functions.mainFunctions: release: n+space
+2026-06-07 09:46:51,593 [DEBUG] modules.functions.mainFunctions: release: down
+2026-06-07 09:46:51,644 [DEBUG] modules.functions.mainFunctions: press: down+x
+2026-06-07 09:46:51,899 [DEBUG] modules.functions.mainFunctions: press: alt+down+x
+2026-06-07 09:46:51,950 [DEBUG] modules.functions.mainFunctions: press: b+x
+2026-06-07 09:46:52,132 [DEBUG] modules.functions.mainFunctions: press: b+space+x
+2026-06-07 09:46:52,183 [DEBUG] modules.functions.mainFunctions: release: b+x
+2026-06-07 09:46:52,234 [DEBUG] modules.functions.mainFunctions: press: b+n
+2026-06-07 09:46:52,471 [DEBUG] modules.functions.mainFunctions: press: alt+b+n
+2026-06-07 09:46:52,522 [DEBUG] modules.functions.mainFunctions: press: n+space+z
+2026-06-07 09:46:52,758 [DEBUG] modules.functions.mainFunctions: press: alt+n+space+z
+2026-06-07 09:46:52,809 [DEBUG] modules.functions.mainFunctions: press: space+up+v
+2026-06-07 09:46:52,972 [DEBUG] modules.functions.mainFunctions: release: space+up
+2026-06-07 09:46:53,023 [DEBUG] modules.functions.mainFunctions: release: space
+2026-06-07 09:46:53,329 [DEBUG] modules.functions.mainFunctions: press: alt+space
+2026-06-07 09:46:53,379 [DEBUG] modules.functions.mainFunctions: release: c
+2026-06-07 09:46:53,430 [DEBUG] modules.functions.mainFunctions: press: c+space
+2026-06-07 09:46:53,604 [DEBUG] modules.functions.mainFunctions: release: c
+2026-06-07 09:46:53,655 [DEBUG] modules.functions.mainFunctions: press: c+space+x
+2026-06-07 09:46:53,891 [DEBUG] modules.functions.mainFunctions: release: c+space+x
+2026-06-07 09:46:53,943 [DEBUG] modules.functions.mainFunctions: release: c+z
+2026-06-07 09:46:54,021 [DEBUG] modules.functions.mainFunctions: press: c+space+z
+2026-06-07 09:46:54,162 [DEBUG] modules.functions.mainFunctions: release: space+z
+2026-06-07 09:46:54,213 [DEBUG] modules.functions.mainFunctions: press: z
+2026-06-07 09:46:54,264 [DEBUG] modules.functions.mainFunctions: release: z
+2026-06-07 09:46:54,315 [DEBUG] modules.functions.mainFunctions: press: space+z
+2026-06-07 09:46:54,366 [DEBUG] modules.functions.mainFunctions: release: space+z
+2026-06-07 09:46:54,475 [DEBUG] modules.functions.mainFunctions: press: alt+space+z
+2026-06-07 09:46:54,526 [DEBUG] modules.functions.mainFunctions: release: c
+2026-06-07 09:46:54,621 [DEBUG] modules.functions.mainFunctions: press: c+space
+2026-06-07 09:46:55,046 [DEBUG] modules.functions.mainFunctions: press: alt+c+space
+2026-06-07 09:46:55,097 [DEBUG] modules.functions.mainFunctions: release: b
+2026-06-07 09:46:55,192 [DEBUG] modules.functions.mainFunctions: press: b+space
+2026-06-07 09:46:55,331 [DEBUG] modules.functions.mainFunctions: press: alt+b+space
+2026-06-07 09:46:55,382 [DEBUG] modules.functions.mainFunctions: press: b+space
+2026-06-07 09:46:55,451 [DEBUG] modules.functions.mainFunctions: release: b+space
+2026-06-07 09:46:55,602 [DEBUG] modules.functions.mainFunctions: release: b+space
+2026-06-07 09:46:55,653 [DEBUG] modules.functions.mainFunctions: release: b
+2026-06-07 09:46:55,705 [DEBUG] modules.functions.mainFunctions: press: b+space
+2026-06-07 09:46:55,891 [DEBUG] modules.functions.mainFunctions: release: space
+2026-06-07 09:46:55,942 [DEBUG] modules.functions.mainFunctions: press: b+space
+2026-06-07 09:46:56,182 [DEBUG] modules.functions.mainFunctions: release: space
+2026-06-07 09:46:56,233 [DEBUG] modules.functions.mainFunctions: release: v
+2026-06-07 09:46:56,301 [DEBUG] modules.functions.mainFunctions: press: space+v
+2026-06-07 09:46:56,473 [DEBUG] modules.functions.mainFunctions: press: alt+space+v
+2026-06-07 09:46:56,524 [DEBUG] modules.functions.mainFunctions: press: space+v+z
+2026-06-07 09:46:56,752 [DEBUG] modules.functions.mainFunctions: release: space+v
+2026-06-07 09:46:56,803 [DEBUG] modules.functions.mainFunctions: release: v+z
+2026-06-07 09:46:56,854 [DEBUG] modules.functions.mainFunctions: press: space+v+z
+2026-06-07 09:46:57,322 [DEBUG] modules.functions.mainFunctions: release: space+v+z
+2026-06-07 09:46:57,373 [DEBUG] modules.functions.mainFunctions: press: b+v
+2026-06-07 09:46:57,424 [DEBUG] modules.functions.mainFunctions: press: b+space+v
+2026-06-07 09:46:57,615 [DEBUG] modules.functions.mainFunctions: press: alt+b+space+v
+2026-06-07 09:46:57,667 [DEBUG] modules.functions.mainFunctions: release: b+z
+2026-06-07 09:46:57,718 [DEBUG] modules.functions.mainFunctions: press: b+space+z
+2026-06-07 09:46:57,891 [DEBUG] modules.functions.mainFunctions: release: b+space
+2026-06-07 09:46:57,942 [DEBUG] modules.functions.mainFunctions: release: b+z
+2026-06-07 09:46:57,993 [DEBUG] modules.functions.mainFunctions: press: b+space+z
+2026-06-07 09:46:58,461 [DEBUG] modules.functions.mainFunctions: release: space+z
+2026-06-07 09:46:58,513 [DEBUG] modules.functions.mainFunctions: press: c+down
+2026-06-07 09:46:58,564 [DEBUG] modules.functions.mainFunctions: press: c+down+space
+2026-06-07 09:46:58,752 [DEBUG] modules.functions.mainFunctions: release: c+down+space
+2026-06-07 09:46:58,803 [DEBUG] modules.functions.mainFunctions: release: b+c+down
+2026-06-07 09:46:58,882 [DEBUG] modules.functions.mainFunctions: press: b+c+down+space
+2026-06-07 09:46:59,045 [DEBUG] modules.functions.mainFunctions: press: alt+b+c+down+space
+2026-06-07 09:46:59,096 [DEBUG] modules.functions.mainFunctions: release: b+c+m
+2026-06-07 09:46:59,201 [DEBUG] modules.functions.mainFunctions: press: b+c+m+space
+2026-06-07 09:46:59,322 [DEBUG] modules.functions.mainFunctions: release: b+c+m
+2026-06-07 09:46:59,373 [DEBUG] modules.functions.mainFunctions: press: b+c+z
+2026-06-07 09:46:59,432 [DEBUG] modules.functions.mainFunctions: press: b+c+space+z
+2026-06-07 09:46:59,615 [DEBUG] modules.functions.mainFunctions: press: alt+b+c+space+z
+2026-06-07 09:46:59,666 [DEBUG] modules.functions.mainFunctions: press: b+n+z
+2026-06-07 09:46:59,722 [DEBUG] modules.functions.mainFunctions: press: b+n+space+z
+2026-06-07 09:46:59,773 [DEBUG] modules.functions.mainFunctions: release: n+space+z
+2026-06-07 09:46:59,902 [DEBUG] modules.functions.mainFunctions: release: space+z
+2026-06-07 09:47:00,171 [DEBUG] modules.functions.mainFunctions: release: space
+2026-06-07 09:47:00,222 [DEBUG] modules.functions.mainFunctions: press: z
+2026-06-07 09:47:00,273 [DEBUG] modules.functions.mainFunctions: press: space+z
+2026-06-07 09:47:00,438 [DEBUG] modules.functions.mainFunctions: release: z
+2026-06-07 09:47:00,489 [DEBUG] modules.functions.mainFunctions: release: b
+2026-06-07 09:47:00,541 [DEBUG] modules.functions.mainFunctions: press: b+space
+2026-06-07 09:47:00,752 [DEBUG] modules.functions.mainFunctions: release: space
+2026-06-07 09:47:00,804 [DEBUG] modules.functions.mainFunctions: release: b+down+x
+2026-06-07 09:47:00,932 [DEBUG] modules.functions.mainFunctions: press: b+down+space+x
+2026-06-07 09:47:01,012 [DEBUG] modules.functions.mainFunctions: release: b+down+x
+2026-06-07 09:47:01,063 [DEBUG] modules.functions.mainFunctions: press: down+x+z
+2026-06-07 09:47:01,121 [DEBUG] modules.functions.mainFunctions: press: down+space+x+z
+2026-06-07 09:47:01,322 [DEBUG] modules.functions.mainFunctions: release: down+space+x
+2026-06-07 09:47:01,374 [DEBUG] modules.functions.mainFunctions: release: down+x+z
+2026-06-07 09:47:01,618 [DEBUG] modules.functions.mainFunctions: press: alt+down+x+z
+2026-06-07 09:47:01,669 [DEBUG] modules.functions.mainFunctions: press: b+x+z
+2026-06-07 09:47:01,720 [DEBUG] modules.functions.mainFunctions: press: b+space+x+z
+2026-06-07 09:47:01,771 [DEBUG] modules.functions.mainFunctions: press: b+n+space+x
+2026-06-07 09:47:01,882 [DEBUG] modules.functions.mainFunctions: release: b+n+x
+2026-06-07 09:47:01,934 [DEBUG] modules.functions.mainFunctions: release: c+z
+2026-06-07 09:47:01,985 [DEBUG] modules.functions.mainFunctions: release: c+z
+2026-06-07 09:47:02,187 [DEBUG] modules.functions.mainFunctions: press: alt+c+z
+2026-06-07 09:47:02,237 [DEBUG] modules.functions.mainFunctions: release: c+x
+2026-06-07 09:47:02,472 [DEBUG] modules.functions.mainFunctions: press: c+space+x
+2026-06-07 09:47:02,523 [DEBUG] modules.functions.mainFunctions: press: c+space+x+z
+2026-06-07 09:47:02,759 [DEBUG] modules.functions.mainFunctions: press: alt+c+space+x+z
+2026-06-07 09:47:02,810 [DEBUG] modules.functions.mainFunctions: press: c+space+x+z
+2026-06-07 09:47:03,032 [DEBUG] modules.functions.mainFunctions: release: space+x+z
+2026-06-07 09:47:03,082 [DEBUG] modules.functions.mainFunctions: release: down
+2026-06-07 09:47:03,282 [DEBUG] modules.functions.mainFunctions: press: down+space
+2026-06-07 09:47:03,616 [DEBUG] modules.functions.mainFunctions: press: alt+down+space
+2026-06-07 09:47:03,668 [DEBUG] modules.functions.mainFunctions: release: b+down
+2026-06-07 09:47:03,831 [DEBUG] modules.functions.mainFunctions: press: b+down+space
+2026-06-07 09:47:04,187 [DEBUG] modules.functions.mainFunctions: press: alt+b+down+space
+2026-06-07 09:47:04,238 [DEBUG] modules.functions.mainFunctions: release: b+j
+2026-06-07 09:47:04,401 [DEBUG] modules.functions.mainFunctions: press: b+j+space
+2026-06-07 09:47:04,459 [DEBUG] modules.functions.mainFunctions: release: b+j
+2026-06-07 09:47:04,510 [DEBUG] modules.functions.mainFunctions: press: b+j+space
+2026-06-07 09:47:04,749 [DEBUG] modules.functions.mainFunctions: release: b+j
+2026-06-07 09:47:04,800 [DEBUG] modules.functions.mainFunctions: press: b+j
+2026-06-07 09:47:04,852 [DEBUG] modules.functions.mainFunctions: press: b+j+space
+2026-06-07 09:47:05,014 [DEBUG] modules.functions.mainFunctions: release: b+j
+2026-06-07 09:47:05,065 [DEBUG] modules.functions.mainFunctions: press: b+j
+2026-06-07 09:47:05,117 [DEBUG] modules.functions.mainFunctions: press: b+j+space
+2026-06-07 09:47:05,292 [DEBUG] modules.functions.mainFunctions: release: b+j+space
+2026-06-07 09:47:05,344 [DEBUG] modules.functions.mainFunctions: press: b+space+v
+2026-06-07 09:47:05,395 [DEBUG] modules.functions.mainFunctions: release: v
+2026-06-07 09:47:05,522 [DEBUG] modules.functions.mainFunctions: press: space+v
+2026-06-07 09:47:05,581 [DEBUG] modules.functions.mainFunctions: release: v
+2026-06-07 09:47:05,632 [DEBUG] modules.functions.mainFunctions: press: v+z
+2026-06-07 09:47:05,692 [DEBUG] modules.functions.mainFunctions: press: space+v+z
+2026-06-07 09:47:05,891 [DEBUG] modules.functions.mainFunctions: release: space+v
+2026-06-07 09:47:05,942 [DEBUG] modules.functions.mainFunctions: release: v+z
+2026-06-07 09:47:06,032 [DEBUG] modules.functions.mainFunctions: press: space+v+z
+2026-06-07 09:47:06,461 [DEBUG] modules.functions.mainFunctions: release: space+v+z
+2026-06-07 09:47:06,513 [DEBUG] modules.functions.mainFunctions: release: b+v
+2026-06-07 09:47:06,564 [DEBUG] modules.functions.mainFunctions: press: b+space+v
+2026-06-07 09:47:06,757 [DEBUG] modules.functions.mainFunctions: press: alt+b+space+v
+2026-06-07 09:47:06,809 [DEBUG] modules.functions.mainFunctions: release: b+v+z
+2026-06-07 09:47:06,860 [DEBUG] modules.functions.mainFunctions: press: b+space+v+z
+2026-06-07 09:47:07,032 [DEBUG] modules.functions.mainFunctions: release: b+space+v
+2026-06-07 09:47:07,082 [DEBUG] modules.functions.mainFunctions: release: b+v+z
+2026-06-07 09:47:07,134 [DEBUG] modules.functions.mainFunctions: press: b+space+v+z
+2026-06-07 09:47:07,602 [DEBUG] modules.functions.mainFunctions: release: space+v+z
+2026-06-07 09:47:07,653 [DEBUG] modules.functions.mainFunctions: release: b+c+down
+2026-06-07 09:47:07,731 [DEBUG] modules.functions.mainFunctions: press: b+c+down+space
+2026-06-07 09:47:07,891 [DEBUG] modules.functions.mainFunctions: release: c+down+space
+2026-06-07 09:47:07,943 [DEBUG] modules.functions.mainFunctions: press: b+c+down+space
+2026-06-07 09:47:08,186 [DEBUG] modules.functions.mainFunctions: press: alt+b+c+down+space
+2026-06-07 09:47:08,237 [DEBUG] modules.functions.mainFunctions: release: b+c+m
+2026-06-07 09:47:08,301 [DEBUG] modules.functions.mainFunctions: press: b+c+m+space
+2026-06-07 09:47:08,463 [DEBUG] modules.functions.mainFunctions: release: b+c+m
+2026-06-07 09:47:08,514 [DEBUG] modules.functions.mainFunctions: press: b+c+z
+2026-06-07 09:47:08,565 [DEBUG] modules.functions.mainFunctions: press: b+c+space+z
+2026-06-07 09:47:08,755 [DEBUG] modules.functions.mainFunctions: release: b+c+z
+2026-06-07 09:47:08,808 [DEBUG] modules.functions.mainFunctions: release: n+z
+2026-06-07 09:47:08,872 [DEBUG] modules.functions.mainFunctions: press: n+space+z
+2026-06-07 09:47:09,012 [DEBUG] modules.functions.mainFunctions: release: n+space+z
+2026-06-07 09:47:09,326 [DEBUG] modules.functions.mainFunctions: release: n+z
+2026-06-07 09:47:09,377 [DEBUG] modules.functions.mainFunctions: release: b+n
+2026-06-07 09:47:09,428 [DEBUG] modules.functions.mainFunctions: press: b+space
+2026-06-07 09:47:09,641 [DEBUG] modules.functions.mainFunctions: release: space
+2026-06-07 09:47:09,731 [DEBUG] modules.functions.mainFunctions: release: space
+2026-06-07 09:47:09,782 [DEBUG] modules.functions.mainFunctions: press: b
+2026-06-07 09:47:09,903 [DEBUG] modules.functions.mainFunctions: press: alt+b
+2026-06-07 09:47:09,954 [DEBUG] modules.functions.mainFunctions: press: down+space+x
+2026-06-07 09:47:10,472 [DEBUG] modules.functions.mainFunctions: release: down+x
+2026-06-07 09:47:10,523 [DEBUG] modules.functions.mainFunctions: press: x+z
+2026-06-07 09:47:10,581 [DEBUG] modules.functions.mainFunctions: press: space+x+z
+2026-06-07 09:47:10,757 [DEBUG] modules.functions.mainFunctions: press: alt+space+x+z
+2026-06-07 09:47:10,808 [DEBUG] modules.functions.mainFunctions: release: n+z
+2026-06-07 09:47:10,882 [DEBUG] modules.functions.mainFunctions: press: n+space+z
+2026-06-07 09:47:10,933 [DEBUG] modules.functions.mainFunctions: release: n+space+z
+2026-06-07 09:47:11,029 [DEBUG] modules.functions.mainFunctions: release: n+z
+2026-06-07 09:47:11,080 [DEBUG] modules.functions.mainFunctions: release: b
+2026-06-07 09:47:11,132 [DEBUG] modules.functions.mainFunctions: press: b+space
+2026-06-07 09:47:11,322 [DEBUG] modules.functions.mainFunctions: release: b+space
+2026-06-07 09:47:11,373 [DEBUG] modules.functions.mainFunctions: press: b+space+z
+2026-06-07 09:47:11,611 [DEBUG] modules.functions.mainFunctions: release: b+z
+2026-06-07 09:47:11,662 [DEBUG] modules.functions.mainFunctions: press: n+z
+2026-06-07 09:47:11,714 [DEBUG] modules.functions.mainFunctions: press: n+space+z
+2026-06-07 09:47:12,032 [DEBUG] modules.functions.mainFunctions: release: n+space
+2026-06-07 09:47:12,083 [DEBUG] modules.functions.mainFunctions: press: z
+2026-06-07 09:47:12,188 [DEBUG] modules.functions.mainFunctions: press: alt+z
+2026-06-07 09:47:12,239 [DEBUG] modules.functions.mainFunctions: press: space+z
+2026-06-07 09:47:12,412 [DEBUG] modules.functions.mainFunctions: release: space+z
+2026-06-07 09:47:12,758 [DEBUG] modules.functions.mainFunctions: release: z
+2026-06-07 09:47:12,810 [DEBUG] modules.functions.mainFunctions: press: c+z
+2026-06-07 09:47:12,861 [DEBUG] modules.functions.mainFunctions: press: c+space+z
+2026-06-07 09:47:13,318 [DEBUG] modules.functions.mainFunctions: release: c+z
+2026-06-07 09:47:13,369 [DEBUG] modules.functions.mainFunctions: press: b+c
+2026-06-07 09:47:13,481 [DEBUG] modules.functions.mainFunctions: press: b+c+space
+2026-06-07 09:47:13,792 [DEBUG] modules.functions.mainFunctions: release: b+c+space
+2026-06-07 09:47:14,184 [DEBUG] modules.functions.mainFunctions: release: b+space
+2026-06-07 09:47:14,235 [DEBUG] modules.functions.mainFunctions: release: c
+2026-06-07 09:47:14,286 [DEBUG] modules.functions.mainFunctions: press: c+space
+2026-06-07 09:47:14,337 [DEBUG] modules.functions.mainFunctions: release: space+v
+2026-06-07 09:47:14,467 [DEBUG] modules.functions.mainFunctions: release: v
+2026-06-07 09:47:14,517 [DEBUG] modules.functions.mainFunctions: press: b+down
+2026-06-07 09:47:14,581 [DEBUG] modules.functions.mainFunctions: press: b+down+space
+2026-06-07 09:47:14,752 [DEBUG] modules.functions.mainFunctions: release: down+space
+2026-06-07 09:47:14,803 [DEBUG] modules.functions.mainFunctions: press: b+down+space
+2026-06-07 09:47:15,045 [DEBUG] modules.functions.mainFunctions: press: alt+b+down+space
+2026-06-07 09:47:15,095 [DEBUG] modules.functions.mainFunctions: release: b+c
+2026-06-07 09:47:15,171 [DEBUG] modules.functions.mainFunctions: press: b+c+space
+2026-06-07 09:47:15,322 [DEBUG] modules.functions.mainFunctions: release: c+space
+2026-06-07 09:47:15,373 [DEBUG] modules.functions.mainFunctions: press: b+c+space
+2026-06-07 09:47:15,611 [DEBUG] modules.functions.mainFunctions: release: b+c+space
+2026-06-07 09:47:15,662 [DEBUG] modules.functions.mainFunctions: release: b+c+down+v
+2026-06-07 09:47:15,831 [DEBUG] modules.functions.mainFunctions: press: b+c+down+space+v
+2026-06-07 09:47:16,462 [DEBUG] modules.functions.mainFunctions: release: b+down+space+v
+2026-06-07 09:47:16,513 [DEBUG] modules.functions.mainFunctions: release: c
+2026-06-07 09:47:16,564 [DEBUG] modules.functions.mainFunctions: press: c+space
+2026-06-07 09:47:16,615 [DEBUG] modules.functions.mainFunctions: press: alt+c+space
+2026-06-07 09:47:16,666 [DEBUG] modules.functions.mainFunctions: press: c+space+v
+2026-06-07 09:47:16,758 [DEBUG] modules.functions.mainFunctions: press: alt+c+space+v
+2026-06-07 09:47:16,809 [DEBUG] modules.functions.mainFunctions: release: b+down
+2026-06-07 09:47:16,901 [DEBUG] modules.functions.mainFunctions: press: b+down+space
+2026-06-07 09:47:17,032 [DEBUG] modules.functions.mainFunctions: release: down+space
+2026-06-07 09:47:17,082 [DEBUG] modules.functions.mainFunctions: press: b+down
+2026-06-07 09:47:17,141 [DEBUG] modules.functions.mainFunctions: press: b+down+space
+2026-06-07 09:47:17,328 [DEBUG] modules.functions.mainFunctions: press: alt+b+down+space
+2026-06-07 09:47:17,380 [DEBUG] modules.functions.mainFunctions: press: b+c+space
+2026-06-07 09:47:17,602 [DEBUG] modules.functions.mainFunctions: release: c+space
+2026-06-07 09:47:17,653 [DEBUG] modules.functions.mainFunctions: press: b+c+space
+2026-06-07 09:47:17,897 [DEBUG] modules.functions.mainFunctions: release: b+c
+2026-06-07 09:47:17,948 [DEBUG] modules.functions.mainFunctions: release: b+n
+2026-06-07 09:47:18,012 [DEBUG] modules.functions.mainFunctions: press: b+n+space
+2026-06-07 09:47:18,186 [DEBUG] modules.functions.mainFunctions: press: alt+b+n+space
+2026-06-07 09:47:18,238 [DEBUG] modules.functions.mainFunctions: release: b+n
+2026-06-07 09:47:18,289 [DEBUG] modules.functions.mainFunctions: press: b+n+space
+2026-06-07 09:47:18,756 [DEBUG] modules.functions.mainFunctions: release: b+n
+2026-06-07 09:47:18,807 [DEBUG] modules.functions.mainFunctions: release: b+x
+2026-06-07 09:47:18,858 [DEBUG] modules.functions.mainFunctions: press: b+space+x
+2026-06-07 09:47:18,909 [DEBUG] modules.functions.mainFunctions: release: b+c+space
+2026-06-07 09:47:18,960 [DEBUG] modules.functions.mainFunctions: release: c+space
+2026-06-07 09:47:19,046 [DEBUG] modules.functions.mainFunctions: press: alt+c+space
+2026-06-07 09:47:19,097 [DEBUG] modules.functions.mainFunctions: release: down+v+x
+2026-06-07 09:47:19,162 [DEBUG] modules.functions.mainFunctions: press: down+space+v+x
+2026-06-07 09:47:19,322 [DEBUG] modules.functions.mainFunctions: release: down+space+x
+2026-06-07 09:47:19,373 [DEBUG] modules.functions.mainFunctions: press: down+space+v+x
+2026-06-07 09:47:19,425 [DEBUG] modules.functions.mainFunctions: release: down+v+x
+2026-06-07 09:47:19,502 [DEBUG] modules.functions.mainFunctions: press: down+space+v+x
+2026-06-07 09:47:19,608 [DEBUG] modules.functions.mainFunctions: release: down+v+x
+2026-06-07 09:47:19,659 [DEBUG] modules.functions.mainFunctions: press: c+space+v+x
+2026-06-07 09:47:19,891 [DEBUG] modules.functions.mainFunctions: release: c+space+x
+2026-06-07 09:47:19,942 [DEBUG] modules.functions.mainFunctions: press: c+space+up+v
+2026-06-07 09:47:20,185 [DEBUG] modules.functions.mainFunctions: press: alt+c+space+up+v
+2026-06-07 09:47:20,236 [DEBUG] modules.functions.mainFunctions: release: h+up+v
+2026-06-07 09:47:20,312 [DEBUG] modules.functions.mainFunctions: press: h+space+up+v
+2026-06-07 09:47:20,363 [DEBUG] modules.functions.mainFunctions: release: h+space
+2026-06-07 09:47:20,473 [DEBUG] modules.functions.mainFunctions: press: alt+h+space
+2026-06-07 09:47:20,525 [DEBUG] modules.functions.mainFunctions: release: b+h
+2026-06-07 09:47:20,576 [DEBUG] modules.functions.mainFunctions: press: b+h+space
+2026-06-07 09:47:20,627 [DEBUG] modules.functions.mainFunctions: release: b+h+space
+2026-06-07 09:47:20,756 [DEBUG] modules.functions.mainFunctions: release: h+space
+2026-06-07 09:47:20,807 [DEBUG] modules.functions.mainFunctions: press: space+up+v
+2026-06-07 09:47:21,002 [DEBUG] modules.functions.mainFunctions: release: space+up
+2026-06-07 09:47:21,053 [DEBUG] modules.functions.mainFunctions: press: c+space
+2026-06-07 09:47:21,104 [DEBUG] modules.functions.mainFunctions: press: c+space
+2026-06-07 09:47:21,322 [DEBUG] modules.functions.mainFunctions: release: c+space
+2026-06-07 09:47:21,373 [DEBUG] modules.functions.mainFunctions: release: c
+2026-06-07 09:47:21,481 [DEBUG] modules.functions.mainFunctions: press: c+space
+2026-06-07 09:47:21,903 [DEBUG] modules.functions.mainFunctions: press: alt+c+space
+2026-06-07 09:47:21,954 [DEBUG] modules.functions.mainFunctions: release: b+c
+2026-06-07 09:47:22,032 [DEBUG] modules.functions.mainFunctions: press: b+c+space
+2026-06-07 09:47:22,472 [DEBUG] modules.functions.mainFunctions: press: alt+b+c+space
+2026-06-07 09:47:22,523 [DEBUG] modules.functions.mainFunctions: release: j
+2026-06-07 09:47:22,611 [DEBUG] modules.functions.mainFunctions: press: j+space
+2026-06-07 09:47:22,822 [DEBUG] modules.functions.mainFunctions: release: j+space
+2026-06-07 09:47:22,902 [DEBUG] modules.functions.mainFunctions: release: j+space
+2026-06-07 09:47:23,327 [DEBUG] modules.functions.mainFunctions: press: alt+j+space
+2026-06-07 09:47:23,379 [DEBUG] modules.functions.mainFunctions: release: c
+2026-06-07 09:47:23,429 [DEBUG] modules.functions.mainFunctions: press: c+space
+2026-06-07 09:47:23,480 [DEBUG] modules.functions.mainFunctions: release: space+v
+2026-06-07 09:47:23,610 [DEBUG] modules.functions.mainFunctions: release: v
+2026-06-07 09:47:23,661 [DEBUG] modules.functions.mainFunctions: release: b+down
+2026-06-07 09:47:23,712 [DEBUG] modules.functions.mainFunctions: press: b+down+space
+2026-06-07 09:47:23,891 [DEBUG] modules.functions.mainFunctions: release: down+space
+2026-06-07 09:47:23,942 [DEBUG] modules.functions.mainFunctions: press: b+down+space
+2026-06-07 09:47:24,188 [DEBUG] modules.functions.mainFunctions: press: alt+b+down+space
+2026-06-07 09:47:24,239 [DEBUG] modules.functions.mainFunctions: press: b+c+space
+2026-06-07 09:47:24,472 [DEBUG] modules.functions.mainFunctions: release: c+space
+2026-06-07 09:47:24,523 [DEBUG] modules.functions.mainFunctions: press: b+c+space
+2026-06-07 09:47:24,747 [DEBUG] modules.functions.mainFunctions: release: b+c
+2026-06-07 09:47:24,797 [DEBUG] modules.functions.mainFunctions: press: b+down+v
+2026-06-07 09:47:24,882 [DEBUG] modules.functions.mainFunctions: press: b+down+space+v
+2026-06-07 09:47:25,602 [DEBUG] modules.functions.mainFunctions: release: b+down+space+v
+2026-06-07 09:47:25,653 [DEBUG] modules.functions.mainFunctions: release: b+c
+2026-06-07 09:47:25,704 [DEBUG] modules.functions.mainFunctions: press: b+c+space
+2026-06-07 09:47:25,758 [DEBUG] modules.functions.mainFunctions: press: alt+b+c+space
+2026-06-07 09:47:25,810 [DEBUG] modules.functions.mainFunctions: press: b+c+space+v
+2026-06-07 09:47:25,891 [DEBUG] modules.functions.mainFunctions: release: c+space+v
+2026-06-07 09:47:25,943 [DEBUG] modules.functions.mainFunctions: release: b+c+down
+2026-06-07 09:47:25,994 [DEBUG] modules.functions.mainFunctions: press: b+c+down+space
+2026-06-07 09:47:26,187 [DEBUG] modules.functions.mainFunctions: press: alt+b+c+down+space
+2026-06-07 09:47:26,238 [DEBUG] modules.functions.mainFunctions: release: b+c+down+n
+2026-06-07 09:47:26,289 [DEBUG] modules.functions.mainFunctions: press: b+c+down+n+space
+2026-06-07 09:47:26,469 [DEBUG] modules.functions.mainFunctions: press: alt+b+c+down+n+space
+2026-06-07 09:47:26,520 [DEBUG] modules.functions.mainFunctions: press: c+down+n+space+up+z
+2026-06-07 09:47:26,746 [DEBUG] modules.functions.mainFunctions: release: c+down+n+up+z
+2026-06-07 09:47:26,797 [DEBUG] modules.functions.mainFunctions: press: c+down+n+space+up+z
+2026-06-07 09:47:27,041 [DEBUG] modules.functions.mainFunctions: press: alt+c+down+n+space+up+z
+2026-06-07 09:47:27,091 [DEBUG] modules.functions.mainFunctions: release: up+z
+2026-06-07 09:47:27,222 [DEBUG] modules.functions.mainFunctions: press: space+up+z
+2026-06-07 09:47:27,899 [DEBUG] modules.functions.mainFunctions: press: alt+space+up+z
+2026-06-07 09:47:27,950 [DEBUG] modules.functions.mainFunctions: release: c
+2026-06-07 09:47:28,002 [DEBUG] modules.functions.mainFunctions: press: c+space
+2026-06-07 09:47:28,187 [DEBUG] modules.functions.mainFunctions: press: alt+c+space
+2026-06-07 09:47:28,238 [DEBUG] modules.functions.mainFunctions: release: down+v+x
+2026-06-07 09:47:28,301 [DEBUG] modules.functions.mainFunctions: press: down+space+v+x
+2026-06-07 09:47:28,473 [DEBUG] modules.functions.mainFunctions: press: alt+down+space+v+x
+2026-06-07 09:47:28,525 [DEBUG] modules.functions.mainFunctions: press: c+down+space+v+x
+2026-06-07 09:47:28,752 [DEBUG] modules.functions.mainFunctions: release: c+down+space+x
+2026-06-07 09:47:28,802 [DEBUG] modules.functions.mainFunctions: release: space+up+v+x
+2026-06-07 09:47:29,044 [DEBUG] modules.functions.mainFunctions: press: alt+space+up+v+x
+2026-06-07 09:47:29,095 [DEBUG] modules.functions.mainFunctions: press: c+space+up+v+x
+2026-06-07 09:47:29,322 [DEBUG] modules.functions.mainFunctions: release: c+space+up+v
+2026-06-07 09:47:29,373 [DEBUG] modules.functions.mainFunctions: release: down+up+v+x
+2026-06-07 09:47:29,442 [DEBUG] modules.functions.mainFunctions: press: down+space+up+v+x
+2026-06-07 09:47:29,891 [DEBUG] modules.functions.mainFunctions: release: down+up+v+x
+2026-06-07 09:47:29,942 [DEBUG] modules.functions.mainFunctions: release: down+up+x
+2026-06-07 09:47:29,993 [DEBUG] modules.functions.mainFunctions: press: down+space+up+x
+2026-06-07 09:47:30,171 [DEBUG] modules.functions.mainFunctions: release: down+space+up
+2026-06-07 09:47:30,223 [DEBUG] modules.functions.mainFunctions: press: down+space+up+x
+2026-06-07 09:47:30,476 [DEBUG] modules.functions.mainFunctions: release: down+up+x
+2026-06-07 09:47:30,527 [DEBUG] modules.functions.mainFunctions: press: b+up+x
+2026-06-07 09:47:30,651 [DEBUG] modules.functions.mainFunctions: press: b+space+up+x
+2026-06-07 09:47:30,771 [DEBUG] modules.functions.mainFunctions: release: b+space+up
+2026-06-07 09:47:31,039 [DEBUG] modules.functions.mainFunctions: press: alt+b+space+up
+2026-06-07 09:47:31,091 [DEBUG] modules.functions.mainFunctions: release: b+m+up
+2026-06-07 09:47:31,141 [DEBUG] modules.functions.mainFunctions: release: b+m+up
+2026-06-07 09:47:31,193 [DEBUG] modules.functions.mainFunctions: press: b+m+space+up
+2026-06-07 09:47:31,282 [DEBUG] modules.functions.mainFunctions: release: b+m+space+up
+2026-06-07 09:47:31,333 [DEBUG] modules.functions.mainFunctions: release: b+m+space
+2026-06-07 09:47:31,608 [DEBUG] modules.functions.mainFunctions: release: b+space
+2026-06-07 09:47:31,659 [DEBUG] modules.functions.mainFunctions: press: x
+2026-06-07 09:47:31,712 [DEBUG] modules.functions.mainFunctions: press: space+x
+2026-06-07 09:47:31,831 [DEBUG] modules.functions.mainFunctions: release: space+x
+2026-06-07 09:47:31,882 [DEBUG] modules.functions.mainFunctions: release: space+x
+2026-06-07 09:47:31,933 [DEBUG] modules.functions.mainFunctions: press: n+x
+2026-06-07 09:47:32,032 [DEBUG] modules.functions.mainFunctions: press: n+space+x
+2026-06-07 09:47:32,178 [DEBUG] modules.functions.mainFunctions: release: n+x
+2026-06-07 09:47:32,229 [DEBUG] modules.functions.mainFunctions: press: n+up+z
+2026-06-07 09:47:32,280 [DEBUG] modules.functions.mainFunctions: press: n+space+up+z
+2026-06-07 09:47:32,467 [DEBUG] modules.functions.mainFunctions: release: n+up+z
+2026-06-07 09:47:32,518 [DEBUG] modules.functions.mainFunctions: release: up+x
+2026-06-07 09:47:32,569 [DEBUG] modules.functions.mainFunctions: press: space+up+x
+2026-06-07 09:47:32,757 [DEBUG] modules.functions.mainFunctions: press: alt+space+up+x
+2026-06-07 09:47:32,808 [DEBUG] modules.functions.mainFunctions: release: c+down+v
+2026-06-07 09:47:32,902 [DEBUG] modules.functions.mainFunctions: press: c+down+space+v
+2026-06-07 09:47:33,021 [DEBUG] modules.functions.mainFunctions: release: c+down+space+v
+2026-06-07 09:47:33,312 [DEBUG] modules.functions.mainFunctions: release: down+space+v
+2026-06-07 09:47:33,363 [DEBUG] modules.functions.mainFunctions: release: c+down+up+v
+2026-06-07 09:47:33,413 [DEBUG] modules.functions.mainFunctions: press: c+down+space+up+v
+2026-06-07 09:47:33,891 [DEBUG] modules.functions.mainFunctions: release: c+down+space+up
+2026-06-07 09:47:33,942 [DEBUG] modules.functions.mainFunctions: release: down+v+x
+2026-06-07 09:47:34,185 [DEBUG] modules.functions.mainFunctions: press: alt+down+v+x
+2026-06-07 09:47:34,236 [DEBUG] modules.functions.mainFunctions: press: down+space+v+x+z
+2026-06-07 09:47:34,468 [DEBUG] modules.functions.mainFunctions: release: down+v+x+z
+2026-06-07 09:47:34,519 [DEBUG] modules.functions.mainFunctions: press: down+n+v+z
+2026-06-07 09:47:34,681 [DEBUG] modules.functions.mainFunctions: press: down+n+space+v+z
+2026-06-07 09:47:34,757 [DEBUG] modules.functions.mainFunctions: press: alt+down+n+space+v+z
+2026-06-07 09:47:34,808 [DEBUG] modules.functions.mainFunctions: press: b+n+space+v+z
+2026-06-07 09:47:34,867 [INFO] modules.functions.midiPlayerFunctions: pausePlayback called
+2026-06-07 09:47:34,868 [DEBUG] modules.functions.midiPlayerFunctions: midiHandler.paused: True
+2026-06-07 09:47:34,868 [DEBUG] modules.functions.mainFunctions: Playback paused.
+2026-06-07 09:47:34,882 [DEBUG] modules.functions.midiPlayerFunctions: pausePlayback state updated
+2026-06-07 09:47:47,531 [INFO] modules.functions.midiPlayerFunctions: stopPlayback called
+2026-06-07 09:47:47,532 [DEBUG] modules.functions.mainFunctions: release: b+n+v+z
+2026-06-07 09:47:47,533 [DEBUG] modules.functions.midiPlayerFunctions: midiHandler.stopPlayback called
+2026-06-07 09:47:47,567 [DEBUG] modules.functions.midiPlayerFunctions: stopPlayback completed
+2026-06-07 09:47:47,568 [INFO] modules.functions.midiPlayerFunctions: startPlayback called, offset=0.0
+2026-06-07 09:47:47,568 [DEBUG] modules.functions.midiPlayerFunctions: startPlayback midiFile: C:\Users\haipr\Documents\nanoMIDIPlayer\Midis\NƠI NÀY CÓ ANH    PIANO  SƠN TÙNG _ MTP.mid
+2026-06-07 09:47:47,608 [DEBUG] modules.functions.midiPlayerFunctions: midiHandler.startPlayback called
+2026-06-07 09:47:47,659 [DEBUG] modules.functions.mainFunctions: Playing MIDI file: C:\Users\haipr\Documents\nanoMIDIPlayer\Midis\NƠI NÀY CÓ ANH    PIANO  SƠN TÙNG _ MTP.mid
+2026-06-07 09:47:55,133 [DEBUG] modules.functions.mainFunctions: release: space
+2026-06-07 09:48:00,133 [DEBUG] modules.functions.mainFunctions: press: space
+2026-06-07 09:48:00,993 [DEBUG] modules.functions.mainFunctions: release: space
+2026-06-07 09:48:01,221 [DEBUG] modules.functions.mainFunctions: press: alt
+2026-06-07 09:48:01,272 [DEBUG] modules.functions.mainFunctions: press: c
+2026-06-07 09:48:01,562 [DEBUG] modules.functions.mainFunctions: release: c
+2026-06-07 09:48:01,612 [DEBUG] modules.functions.mainFunctions: press: v
+2026-06-07 09:48:01,746 [DEBUG] modules.functions.mainFunctions: press: alt+v
+2026-06-07 09:48:01,797 [DEBUG] modules.functions.mainFunctions: press: b
+2026-06-07 09:48:01,903 [DEBUG] modules.functions.mainFunctions: press: b+space
+2026-06-07 09:48:01,954 [DEBUG] modules.functions.mainFunctions: press: v+z
+2026-06-07 09:48:02,628 [DEBUG] modules.functions.mainFunctions: press: alt+v+z
+2026-06-07 09:48:02,679 [DEBUG] modules.functions.mainFunctions: press: c+v
+2026-06-07 09:48:02,973 [DEBUG] modules.functions.mainFunctions: release: c
+2026-06-07 09:48:03,024 [DEBUG] modules.functions.mainFunctions: press: c+v
+2026-06-07 09:48:03,153 [DEBUG] modules.functions.mainFunctions: release: c+v
+2026-06-07 09:48:03,204 [DEBUG] modules.functions.mainFunctions: press: b+c+v
+2026-06-07 09:48:03,335 [DEBUG] modules.functions.mainFunctions: press: alt+b+c+v
+2026-06-07 09:48:03,385 [DEBUG] modules.functions.mainFunctions: release: x
+2026-06-07 09:48:03,437 [DEBUG] modules.functions.mainFunctions: release: x
+2026-06-07 09:48:03,503 [DEBUG] modules.functions.mainFunctions: press: space+x
+2026-06-07 09:48:04,039 [DEBUG] modules.functions.mainFunctions: press: alt+space+x
+2026-06-07 09:48:04,091 [DEBUG] modules.functions.mainFunctions: press: c+space+x
+2026-06-07 09:48:04,395 [DEBUG] modules.functions.mainFunctions: press: alt+c+space+x
+2026-06-07 09:48:04,446 [DEBUG] modules.functions.mainFunctions: press: c+space+v
+2026-06-07 09:48:04,569 [DEBUG] modules.functions.mainFunctions: press: alt+c+space+v
+2026-06-07 09:48:04,620 [DEBUG] modules.functions.mainFunctions: press: b+c+v
+2026-06-07 09:48:04,742 [DEBUG] modules.functions.mainFunctions: release: c+v
+2026-06-07 09:48:04,793 [DEBUG] modules.functions.mainFunctions: release: z
+2026-06-07 09:48:04,844 [DEBUG] modules.functions.mainFunctions: release: z
+2026-06-07 09:48:04,943 [DEBUG] modules.functions.mainFunctions: press: space+z
+2026-06-07 09:48:05,100 [DEBUG] modules.functions.mainFunctions: press: alt+space+z
+2026-06-07 09:48:05,152 [DEBUG] modules.functions.mainFunctions: press: b+space+z
+2026-06-07 09:48:05,452 [DEBUG] modules.functions.mainFunctions: press: alt+b+space+z
+2026-06-07 09:48:05,503 [DEBUG] modules.functions.mainFunctions: press: b+c+space
+2026-06-07 09:48:05,612 [DEBUG] modules.functions.mainFunctions: release: c+space
+2026-06-07 09:48:05,804 [DEBUG] modules.functions.mainFunctions: press: alt+c+space
+2026-06-07 09:48:05,855 [DEBUG] modules.functions.mainFunctions: release: c+n+space
+2026-06-07 09:48:05,982 [DEBUG] modules.functions.mainFunctions: press: alt+c+n+space
+2026-06-07 09:48:06,032 [DEBUG] modules.functions.mainFunctions: press: b+c+n+space
+2026-06-07 09:48:06,153 [DEBUG] modules.functions.mainFunctions: release: b+n+space
+2026-06-07 09:48:06,204 [DEBUG] modules.functions.mainFunctions: release: b+c+m
+2026-06-07 09:48:06,262 [DEBUG] modules.functions.mainFunctions: release: c+m
+2026-06-07 09:48:06,343 [DEBUG] modules.functions.mainFunctions: press: c+m+space
+2026-06-07 09:48:06,503 [DEBUG] modules.functions.mainFunctions: release: c+m+space
+2026-06-07 09:48:06,554 [DEBUG] modules.functions.mainFunctions: press: b+c+m+space
+2026-06-07 09:48:06,743 [DEBUG] modules.functions.mainFunctions: release: b+c+m+space
+2026-06-07 09:48:06,852 [DEBUG] modules.functions.mainFunctions: release: c+m+space
+2026-06-07 09:48:06,903 [DEBUG] modules.functions.mainFunctions: press: b+m+space+x
+2026-06-07 09:48:06,954 [DEBUG] modules.functions.mainFunctions: press: b+c+m+space+x
+2026-06-07 09:48:07,034 [DEBUG] modules.functions.mainFunctions: release: b+c+m+space
+2026-06-07 09:48:07,085 [DEBUG] modules.functions.mainFunctions: press: b+c+m+space+x
+2026-06-07 09:48:07,220 [DEBUG] modules.functions.mainFunctions: press: alt+b+c+m+space+x
+2026-06-07 09:48:07,271 [DEBUG] modules.functions.mainFunctions: press: b+c+space+x+z
+2026-06-07 09:48:07,563 [DEBUG] modules.functions.mainFunctions: release: b+c+space+z
+2026-06-07 09:48:07,614 [DEBUG] modules.functions.mainFunctions: release: v+x
+2026-06-07 09:48:08,099 [DEBUG] modules.functions.mainFunctions: press: alt+v+x
+2026-06-07 09:48:08,150 [DEBUG] modules.functions.mainFunctions: press: b+v+x
+2026-06-07 09:48:08,243 [DEBUG] modules.functions.mainFunctions: press: b+space+v+x
+2026-06-07 09:48:08,294 [DEBUG] modules.functions.mainFunctions: press: b+c+space+v
+2026-06-07 09:48:08,443 [DEBUG] modules.functions.mainFunctions: release: b+c+space+v
+2026-06-07 09:48:08,494 [DEBUG] modules.functions.mainFunctions: press: b+c+space+v+x
+2026-06-07 09:48:08,631 [DEBUG] modules.functions.mainFunctions: press: alt+b+c+space+v+x
+2026-06-07 09:48:08,682 [DEBUG] modules.functions.mainFunctions: press: b+c+space+x+z
+2026-06-07 09:48:08,973 [DEBUG] modules.functions.mainFunctions: release: c+space+x+z
+2026-06-07 09:48:09,024 [DEBUG] modules.functions.mainFunctions: release: b+x
+2026-06-07 09:48:09,338 [DEBUG] modules.functions.mainFunctions: press: alt+b+x
+2026-06-07 09:48:09,388 [DEBUG] modules.functions.mainFunctions: press: b+x+z
+2026-06-07 09:48:09,452 [DEBUG] modules.functions.mainFunctions: press: b+space+x+z
+2026-06-07 09:48:09,503 [DEBUG] modules.functions.mainFunctions: release: b+space+z
+2026-06-07 09:48:09,554 [DEBUG] modules.functions.mainFunctions: press: b+space+x+z
+2026-06-07 09:48:09,861 [DEBUG] modules.functions.mainFunctions: press: alt+b+space+x+z
+2026-06-07 09:48:09,912 [DEBUG] modules.functions.mainFunctions: press: b+space+x+z
+2026-06-07 09:48:10,383 [DEBUG] modules.functions.mainFunctions: release: space+x+z
+2026-06-07 09:48:10,434 [DEBUG] modules.functions.mainFunctions: release: x
+2026-06-07 09:48:10,492 [DEBUG] modules.functions.mainFunctions: press: space
+2026-06-07 09:48:10,926 [DEBUG] modules.functions.mainFunctions: press: alt+space
+2026-06-07 09:48:10,977 [DEBUG] modules.functions.mainFunctions: press: v+x
+2026-06-07 09:48:11,456 [DEBUG] modules.functions.mainFunctions: press: alt+v+x
+2026-06-07 09:48:11,508 [DEBUG] modules.functions.mainFunctions: press: c+v
+2026-06-07 09:48:12,153 [DEBUG] modules.functions.mainFunctions: release: c+v
+2026-06-07 09:48:12,204 [DEBUG] modules.functions.mainFunctions: press: b+c+v
+2026-06-07 09:48:12,503 [DEBUG] modules.functions.mainFunctions: release: b+v
+2026-06-07 09:48:12,554 [DEBUG] modules.functions.mainFunctions: press: b+c+v
+2026-06-07 09:48:12,843 [DEBUG] modules.functions.mainFunctions: release: b+c
+2026-06-07 09:48:12,893 [DEBUG] modules.functions.mainFunctions: press: b+c+v
+2026-06-07 09:48:13,041 [DEBUG] modules.functions.mainFunctions: press: alt+b+c+v
+2026-06-07 09:48:13,091 [DEBUG] modules.functions.mainFunctions: press: b+c+v
+2026-06-07 09:48:13,213 [DEBUG] modules.functions.mainFunctions: release: b+c+v
+2026-06-07 09:48:13,264 [DEBUG] modules.functions.mainFunctions: release: n+v
+2026-06-07 09:48:13,352 [DEBUG] modules.functions.mainFunctions: press: n+space+v
+2026-06-07 09:48:13,563 [DEBUG] modules.functions.mainFunctions: release: n+space+v
+2026-06-07 09:48:13,614 [DEBUG] modules.functions.mainFunctions: press: n+space+v+z
+2026-06-07 09:48:13,733 [DEBUG] modules.functions.mainFunctions: release: n+space+z
+2026-06-07 09:48:13,913 [DEBUG] modules.functions.mainFunctions: release: n+space+z
+2026-06-07 09:48:13,964 [DEBUG] modules.functions.mainFunctions: press: c+n+v
+2026-06-07 09:48:14,276 [DEBUG] modules.functions.mainFunctions: press: alt+c+n+v
+2026-06-07 09:48:14,328 [DEBUG] modules.functions.mainFunctions: press: n+v
+2026-06-07 09:48:14,396 [DEBUG] modules.functions.mainFunctions: release: n+v
+2026-06-07 09:48:14,447 [DEBUG] modules.functions.mainFunctions: release: b
+2026-06-07 09:48:14,498 [DEBUG] modules.functions.mainFunctions: press: b+space
+2026-06-07 09:48:14,628 [DEBUG] modules.functions.mainFunctions: press: alt+b+space
+2026-06-07 09:48:14,679 [DEBUG] modules.functions.mainFunctions: press: b+x
+2026-06-07 09:48:15,335 [DEBUG] modules.functions.mainFunctions: press: alt+b+x
+2026-06-07 09:48:15,386 [DEBUG] modules.functions.mainFunctions: press: b+c
+2026-06-07 09:48:15,463 [DEBUG] modules.functions.mainFunctions: release: b+c
+2026-06-07 09:48:15,688 [DEBUG] modules.functions.mainFunctions: press: alt+b+c
+2026-06-07 09:48:15,739 [DEBUG] modules.functions.mainFunctions: press: b+c+v
+2026-06-07 09:48:15,852 [DEBUG] modules.functions.mainFunctions: release: c+v
+2026-06-07 09:48:15,903 [DEBUG] modules.functions.mainFunctions: press: b+c+v
+2026-06-07 09:48:16,033 [DEBUG] modules.functions.mainFunctions: release: c+v
+2026-06-07 09:48:16,084 [DEBUG] modules.functions.mainFunctions: release: z
+2026-06-07 09:48:16,163 [DEBUG] modules.functions.mainFunctions: press: space+z
+2026-06-07 09:48:16,392 [DEBUG] modules.functions.mainFunctions: press: alt+space+z
+2026-06-07 09:48:16,443 [DEBUG] modules.functions.mainFunctions: press: b+space+z
+2026-06-07 09:48:16,747 [DEBUG] modules.functions.mainFunctions: press: alt+b+space+z
+2026-06-07 09:48:16,798 [DEBUG] modules.functions.mainFunctions: press: b+c+space
+2026-06-07 09:48:16,922 [DEBUG] modules.functions.mainFunctions: release: c+space
+2026-06-07 09:48:17,098 [DEBUG] modules.functions.mainFunctions: press: alt+c+space
+2026-06-07 09:48:17,150 [DEBUG] modules.functions.mainFunctions: press: c+n+space
+2026-06-07 09:48:17,277 [DEBUG] modules.functions.mainFunctions: press: alt+c+n+space
+2026-06-07 09:48:17,328 [DEBUG] modules.functions.mainFunctions: press: b+c+n
+2026-06-07 09:48:17,443 [DEBUG] modules.functions.mainFunctions: release: b+n
+2026-06-07 09:48:17,494 [DEBUG] modules.functions.mainFunctions: release: c+m
+2026-06-07 09:48:17,792 [DEBUG] modules.functions.mainFunctions: release: c+m
+2026-06-07 09:48:17,843 [DEBUG] modules.functions.mainFunctions: press: b+c+m
+2026-06-07 09:48:18,133 [DEBUG] modules.functions.mainFunctions: press: b+c+m+space
+2026-06-07 09:48:18,184 [DEBUG] modules.functions.mainFunctions: release: m+space+x
+2026-06-07 09:48:18,235 [DEBUG] modules.functions.mainFunctions: release: m+space+x
+2026-06-07 09:48:18,286 [DEBUG] modules.functions.mainFunctions: press: c+m+space+x
+2026-06-07 09:48:18,338 [DEBUG] modules.functions.mainFunctions: press: c+m+space+x
+2026-06-07 09:48:18,512 [DEBUG] modules.functions.mainFunctions: press: alt+c+m+space+x
+2026-06-07 09:48:18,563 [DEBUG] modules.functions.mainFunctions: press: c+space+x+z
+2026-06-07 09:48:18,852 [DEBUG] modules.functions.mainFunctions: release: c+space+z
+2026-06-07 09:48:18,903 [DEBUG] modules.functions.mainFunctions: release: v+x
+2026-06-07 09:48:19,093 [DEBUG] modules.functions.mainFunctions: press: space+v+x
+2026-06-07 09:48:19,393 [DEBUG] modules.functions.mainFunctions: press: alt+space+v+x
+2026-06-07 09:48:19,445 [DEBUG] modules.functions.mainFunctions: release: b+v+x
+2026-06-07 09:48:19,542 [DEBUG] modules.functions.mainFunctions: press: b+space+v+x
+2026-06-07 09:48:19,594 [DEBUG] modules.functions.mainFunctions: press: b+c+space+v
+2026-06-07 09:48:19,645 [DEBUG] modules.functions.mainFunctions: release: b+c+space+v
+2026-06-07 09:48:19,746 [DEBUG] modules.functions.mainFunctions: press: alt+b+c+space+v
+2026-06-07 09:48:19,798 [DEBUG] modules.functions.mainFunctions: press: b+c+space+v+x
+2026-06-07 09:48:19,925 [DEBUG] modules.functions.mainFunctions: press: alt+b+c+space+v+x
+2026-06-07 09:48:19,976 [DEBUG] modules.functions.mainFunctions: press: b+c+space+x+z
+2026-06-07 09:48:20,262 [DEBUG] modules.functions.mainFunctions: release: b+c+space+z
+2026-06-07 09:48:20,313 [DEBUG] modules.functions.mainFunctions: release: x
+2026-06-07 09:48:20,612 [DEBUG] modules.functions.mainFunctions: press: space+x
+2026-06-07 09:48:20,663 [DEBUG] modules.functions.mainFunctions: press: c+space+x
+2026-06-07 09:48:20,742 [DEBUG] modules.functions.mainFunctions: release: c+space
+2026-06-07 09:48:20,980 [DEBUG] modules.functions.mainFunctions: press: alt+c+space
+2026-06-07 09:48:21,032 [DEBUG] modules.functions.mainFunctions: release: b+c+x
+2026-06-07 09:48:21,083 [DEBUG] modules.functions.mainFunctions: press: b+c+space+x
+2026-06-07 09:48:21,152 [DEBUG] modules.functions.mainFunctions: release: b+c+space
+2026-06-07 09:48:21,204 [DEBUG] modules.functions.mainFunctions: press: b+c+space+x
+2026-06-07 09:48:21,338 [DEBUG] modules.functions.mainFunctions: press: alt+b+c+space+x
+2026-06-07 09:48:21,389 [DEBUG] modules.functions.mainFunctions: press: c+space+x+z
+2026-06-07 09:48:21,683 [DEBUG] modules.functions.mainFunctions: release: c+space+x+z
+2026-06-07 09:48:21,733 [DEBUG] modules.functions.mainFunctions: release: z
+2026-06-07 09:48:22,183 [DEBUG] modules.functions.mainFunctions: press: space+z
+2026-06-07 09:48:22,234 [DEBUG] modules.functions.mainFunctions: press: space+v+z
+2026-06-07 09:48:22,732 [DEBUG] modules.functions.mainFunctions: release: space+v+z
+2026-06-07 09:48:22,783 [DEBUG] modules.functions.mainFunctions: press: b+z
+2026-06-07 09:48:22,922 [DEBUG] modules.functions.mainFunctions: press: b+space+z
+2026-06-07 09:48:23,103 [DEBUG] modules.functions.mainFunctions: press: alt+b+space+z
+2026-06-07 09:48:23,154 [DEBUG] modules.functions.mainFunctions: release: c+space+z
+2026-06-07 09:48:23,482 [DEBUG] modules.functions.mainFunctions: release: c+space
+2026-06-07 09:48:23,806 [DEBUG] modules.functions.mainFunctions: press: alt+c+space
+2026-06-07 09:48:23,857 [DEBUG] modules.functions.mainFunctions: press: c+n+space
+2026-06-07 09:48:24,322 [DEBUG] modules.functions.mainFunctions: release: c+n+space
+2026-06-07 09:48:24,372 [DEBUG] modules.functions.mainFunctions: press: b+c+n+space
+2026-06-07 09:48:24,503 [DEBUG] modules.functions.mainFunctions: release: b+c+space
+2026-06-07 09:48:24,553 [DEBUG] modules.functions.mainFunctions: release: n+shift_r+v
+2026-06-07 09:48:24,605 [DEBUG] modules.functions.mainFunctions: release: n+shift_r+v
+2026-06-07 09:48:24,852 [DEBUG] modules.functions.mainFunctions: press: n+shift_r+space+v
+2026-06-07 09:48:24,903 [DEBUG] modules.functions.mainFunctions: press: shift_r+space+v+z
+2026-06-07 09:48:25,218 [DEBUG] modules.functions.mainFunctions: press: alt+shift_r+space+v+z
+2026-06-07 09:48:25,270 [DEBUG] modules.functions.mainFunctions: press: b+space+x+z
+2026-06-07 09:48:25,569 [DEBUG] modules.functions.mainFunctions: press: alt+b+space+x+z
+2026-06-07 09:48:25,620 [DEBUG] modules.functions.mainFunctions: press: b+c+x+z
+2026-06-07 09:48:25,913 [DEBUG] modules.functions.mainFunctions: release: b+x+z
+2026-06-07 09:48:25,964 [DEBUG] modules.functions.mainFunctions: release: c
+2026-06-07 09:48:26,276 [DEBUG] modules.functions.mainFunctions: press: alt+c
+2026-06-07 09:48:26,327 [DEBUG] modules.functions.mainFunctions: press: space+x
+2026-06-07 09:48:26,609 [DEBUG] modules.functions.mainFunctions: release: x
+2026-06-07 09:48:26,660 [DEBUG] modules.functions.mainFunctions: press: b
+2026-06-07 09:48:26,753 [DEBUG] modules.functions.mainFunctions: press: b+space
+2026-06-07 09:48:26,983 [DEBUG] modules.functions.mainFunctions: press: alt+b+space
+2026-06-07 09:48:27,035 [DEBUG] modules.functions.mainFunctions: press: m+space
+2026-06-07 09:48:27,322 [DEBUG] modules.functions.mainFunctions: release: space
+2026-06-07 09:48:27,373 [DEBUG] modules.functions.mainFunctions: release: m
+2026-06-07 09:48:27,688 [DEBUG] modules.functions.mainFunctions: press: alt+m
+2026-06-07 09:48:27,739 [DEBUG] modules.functions.mainFunctions: press: c+space+z
+2026-06-07 09:48:27,790 [DEBUG] modules.functions.mainFunctions: release: c+space+z
+2026-06-07 09:48:27,852 [DEBUG] modules.functions.mainFunctions: release: c+space
+2026-06-07 09:48:27,903 [DEBUG] modules.functions.mainFunctions: release: c+z
+2026-06-07 09:48:27,955 [DEBUG] modules.functions.mainFunctions: press: c+space+z
+2026-06-07 09:48:28,041 [DEBUG] modules.functions.mainFunctions: press: alt+c+space+z
+2026-06-07 09:48:28,092 [DEBUG] modules.functions.mainFunctions: press: n+space+z
+2026-06-07 09:48:28,396 [DEBUG] modules.functions.mainFunctions: press: alt+n+space+z
+2026-06-07 09:48:28,447 [DEBUG] modules.functions.mainFunctions: press: b+n+z
+2026-06-07 09:48:28,737 [DEBUG] modules.functions.mainFunctions: release: b+n+z
+2026-06-07 09:48:28,789 [DEBUG] modules.functions.mainFunctions: release: b+z
+2026-06-07 09:48:29,101 [DEBUG] modules.functions.mainFunctions: press: alt+b+z
+2026-06-07 09:48:29,152 [DEBUG] modules.functions.mainFunctions: press: b+m+space+z
+2026-06-07 09:48:29,443 [DEBUG] modules.functions.mainFunctions: release: b+m+space
+2026-06-07 09:48:29,494 [DEBUG] modules.functions.mainFunctions: press: m+n+space+z
+2026-06-07 09:48:29,973 [DEBUG] modules.functions.mainFunctions: release: m+n+space+z
+2026-06-07 09:48:30,024 [DEBUG] modules.functions.mainFunctions: press: b+m+n+space+z
+2026-06-07 09:48:30,149 [DEBUG] modules.functions.mainFunctions: release: b+m+n+z
+2026-06-07 09:48:30,199 [DEBUG] modules.functions.mainFunctions: release: b+n+v
+2026-06-07 09:48:30,332 [DEBUG] modules.functions.mainFunctions: press: b+n+space+v
+2026-06-07 09:48:30,392 [DEBUG] modules.functions.mainFunctions: release: n+space+v
+2026-06-07 09:48:30,516 [DEBUG] modules.functions.mainFunctions: press: alt+n+space+v
+2026-06-07 09:48:30,568 [DEBUG] modules.functions.mainFunctions: press: space+v+z
+2026-06-07 09:48:30,866 [DEBUG] modules.functions.mainFunctions: press: alt+space+v+z
+2026-06-07 09:48:30,917 [DEBUG] modules.functions.mainFunctions: press: b+x+z
+2026-06-07 09:48:31,219 [DEBUG] modules.functions.mainFunctions: press: alt+b+x+z
+2026-06-07 09:48:31,270 [DEBUG] modules.functions.mainFunctions: press: b+c+x
+2026-06-07 09:48:31,569 [DEBUG] modules.functions.mainFunctions: press: alt+b+c+x
+2026-06-07 09:48:31,621 [DEBUG] modules.functions.mainFunctions: release: b+c
+2026-06-07 09:48:31,783 [DEBUG] modules.functions.mainFunctions: release: c
+2026-06-07 09:48:31,921 [DEBUG] modules.functions.mainFunctions: press: alt+c
+2026-06-07 09:48:31,972 [DEBUG] modules.functions.mainFunctions: press: space+x
+2026-06-07 09:48:32,262 [DEBUG] modules.functions.mainFunctions: release: space
+2026-06-07 09:48:32,314 [DEBUG] modules.functions.mainFunctions: release: b+x
+2026-06-07 09:48:32,413 [DEBUG] modules.functions.mainFunctions: press: b+space+x
+2026-06-07 09:48:32,631 [DEBUG] modules.functions.mainFunctions: press: alt+b+space+x
+2026-06-07 09:48:32,682 [DEBUG] modules.functions.mainFunctions: press: b+m+space
+2026-06-07 09:48:32,973 [DEBUG] modules.functions.mainFunctions: release: b+space
+2026-06-07 09:48:33,025 [DEBUG] modules.functions.mainFunctions: release: m+z
+2026-06-07 09:48:33,322 [DEBUG] modules.functions.mainFunctions: press: m+space+z
+2026-06-07 09:48:33,373 [DEBUG] modules.functions.mainFunctions: press: b+space+z
+2026-06-07 09:48:33,424 [DEBUG] modules.functions.mainFunctions: release: b+space+z
+2026-06-07 09:48:33,503 [DEBUG] modules.functions.mainFunctions: release: b+space
+2026-06-07 09:48:33,554 [DEBUG] modules.functions.mainFunctions: press: b+space+z
+2026-06-07 09:48:33,690 [DEBUG] modules.functions.mainFunctions: press: alt+b+space+z
+2026-06-07 09:48:33,741 [DEBUG] modules.functions.mainFunctions: press: b+z
+2026-06-07 09:48:33,868 [DEBUG] modules.functions.mainFunctions: press: alt+b+z
+2026-06-07 09:48:33,918 [DEBUG] modules.functions.mainFunctions: press: v+z
+2026-06-07 09:48:34,217 [DEBUG] modules.functions.mainFunctions: press: alt+v+z
+2026-06-07 09:48:34,268 [DEBUG] modules.functions.mainFunctions: press: b+v
+2026-06-07 09:48:34,383 [DEBUG] modules.functions.mainFunctions: release: b+v
+2026-06-07 09:48:34,434 [DEBUG] modules.functions.mainFunctions: press: b+c+z
+2026-06-07 09:48:34,743 [DEBUG] modules.functions.mainFunctions: release: c+z
+2026-06-07 09:48:34,794 [DEBUG] modules.functions.mainFunctions: press: b+c+z
+2026-06-07 09:48:35,093 [DEBUG] modules.functions.mainFunctions: release: b+c
+2026-06-07 09:48:35,144 [DEBUG] modules.functions.mainFunctions: press: b+z
+2026-06-07 09:48:35,453 [DEBUG] modules.functions.mainFunctions: press: alt+b+z
+2026-06-07 09:48:35,505 [DEBUG] modules.functions.mainFunctions: press: m+z
+2026-06-07 09:48:35,739 [DEBUG] modules.functions.mainFunctions: release: m+z
+2026-06-07 09:48:35,790 [DEBUG] modules.functions.mainFunctions: release: v
+2026-06-07 09:48:35,841 [DEBUG] modules.functions.mainFunctions: press: n+v
+2026-06-07 09:48:35,952 [DEBUG] modules.functions.mainFunctions: press: n+space+v
+2026-06-07 09:48:36,004 [DEBUG] modules.functions.mainFunctions: release: n+v
+2026-06-07 09:48:36,072 [DEBUG] modules.functions.mainFunctions: press: n+space+v
+2026-06-07 09:48:36,160 [DEBUG] modules.functions.mainFunctions: press: alt+n+space+v
+2026-06-07 09:48:36,212 [DEBUG] modules.functions.mainFunctions: press: n+space+z
+2026-06-07 09:48:36,516 [DEBUG] modules.functions.mainFunctions: press: alt+n+space+z
+2026-06-07 09:48:36,567 [DEBUG] modules.functions.mainFunctions: press: b+v
+2026-06-07 09:48:37,043 [DEBUG] modules.functions.mainFunctions: press: alt+b+v
+2026-06-07 09:48:37,094 [DEBUG] modules.functions.mainFunctions: press: v+x
+2026-06-07 09:48:37,145 [DEBUG] modules.functions.mainFunctions: press: b+x
+2026-06-07 09:48:37,216 [DEBUG] modules.functions.mainFunctions: press: alt+b+x
+2026-06-07 09:48:37,268 [DEBUG] modules.functions.mainFunctions: release: x
+2026-06-07 09:48:37,533 [DEBUG] modules.functions.mainFunctions: press: space+x
+2026-06-07 09:48:37,584 [DEBUG] modules.functions.mainFunctions: press: space+x
+2026-06-07 09:48:37,926 [DEBUG] modules.functions.mainFunctions: press: alt+space+x
+2026-06-07 09:48:37,978 [DEBUG] modules.functions.mainFunctions: press: b+space
+2026-06-07 09:48:38,275 [DEBUG] modules.functions.mainFunctions: press: alt+b+space
+2026-06-07 09:48:38,326 [DEBUG] modules.functions.mainFunctions: press: b+z
+2026-06-07 09:48:38,628 [DEBUG] modules.functions.mainFunctions: press: alt+b+z
+2026-06-07 09:48:38,679 [DEBUG] modules.functions.mainFunctions: release: c+m
+2026-06-07 09:48:38,973 [DEBUG] modules.functions.mainFunctions: press: c+m+space
+2026-06-07 09:48:39,024 [DEBUG] modules.functions.mainFunctions: press: c+space+z
+2026-06-07 09:48:39,336 [DEBUG] modules.functions.mainFunctions: press: alt+c+space+z
+2026-06-07 09:48:39,387 [DEBUG] modules.functions.mainFunctions: release: n+x+z
+2026-06-07 09:48:39,439 [DEBUG] modules.functions.mainFunctions: press: n+space+x+z
+2026-06-07 09:48:39,689 [DEBUG] modules.functions.mainFunctions: press: alt+n+space+x+z
+2026-06-07 09:48:39,740 [DEBUG] modules.functions.mainFunctions: press: b+n+space+x
+2026-06-07 09:48:40,023 [DEBUG] modules.functions.mainFunctions: release: b+n+space+x
+2026-06-07 09:48:40,074 [DEBUG] modules.functions.mainFunctions: release: b+c+n+x
+2026-06-07 09:48:40,125 [DEBUG] modules.functions.mainFunctions: release: b+c+space+x
+2026-06-07 09:48:40,232 [DEBUG] modules.functions.mainFunctions: release: b+space+x
+2026-06-07 09:48:40,352 [DEBUG] modules.functions.mainFunctions: release: b+space+x
+2026-06-07 09:48:40,403 [DEBUG] modules.functions.mainFunctions: press: b+m+space+x
+2026-06-07 09:48:40,455 [DEBUG] modules.functions.mainFunctions: release: b+m+space
+2026-06-07 09:48:40,743 [DEBUG] modules.functions.mainFunctions: release: b+m+space
+2026-06-07 09:48:40,794 [DEBUG] modules.functions.mainFunctions: press: m+space+x+z
+2026-06-07 09:48:41,099 [DEBUG] modules.functions.mainFunctions: press: alt+m+space+x+z
+2026-06-07 09:48:41,150 [DEBUG] modules.functions.mainFunctions: press: m+x+z
+2026-06-07 09:48:41,330 [INFO] modules.functions.midiPlayerFunctions: pausePlayback called
+2026-06-07 09:48:41,331 [DEBUG] modules.functions.midiPlayerFunctions: midiHandler.paused: True
+2026-06-07 09:48:41,331 [DEBUG] modules.functions.mainFunctions: Playback paused.
+2026-06-07 09:48:41,346 [DEBUG] modules.functions.midiPlayerFunctions: pausePlayback state updated
+2026-06-07 09:49:27,470 [INFO] modules.functions.midiPlayerFunctions: pausePlayback called
+2026-06-07 09:49:27,471 [DEBUG] modules.functions.midiPlayerFunctions: midiHandler.paused: False
+2026-06-07 09:49:27,471 [DEBUG] modules.functions.mainFunctions: Playback resumed.
+2026-06-07 09:49:27,486 [DEBUG] modules.functions.midiPlayerFunctions: pausePlayback state updated
+2026-06-07 09:49:27,603 [DEBUG] modules.functions.mainFunctions: release: m+x+z
+2026-06-07 09:49:27,654 [DEBUG] modules.functions.mainFunctions: release: n+v
+2026-06-07 09:49:27,962 [DEBUG] modules.functions.mainFunctions: press: n+space+v
+2026-06-07 09:49:28,014 [DEBUG] modules.functions.mainFunctions: press: c+n+space+z
+2026-06-07 09:49:28,143 [DEBUG] modules.functions.mainFunctions: release: n+space+z
+2026-06-07 09:49:28,195 [DEBUG] modules.functions.mainFunctions: press: c+n+space+z
+2026-06-07 09:49:28,331 [DEBUG] modules.functions.mainFunctions: press: alt+c+n+space+z
+2026-06-07 09:49:28,381 [DEBUG] modules.functions.mainFunctions: press: b+c+space+z
+2026-06-07 09:49:29,033 [DEBUG] modules.functions.mainFunctions: release: c+space+z
+2026-06-07 09:49:29,084 [DEBUG] modules.functions.mainFunctions: release: b
+2026-06-07 09:49:29,193 [DEBUG] modules.functions.mainFunctions: release: b
+2026-06-07 09:49:29,373 [DEBUG] modules.functions.mainFunctions: press: space
+2026-06-07 09:49:29,424 [DEBUG] modules.functions.mainFunctions: press: x
+2026-06-07 09:49:29,554 [DEBUG] modules.functions.mainFunctions: release: x
+2026-06-07 09:49:29,605 [DEBUG] modules.functions.mainFunctions: press: x
+2026-06-07 09:49:29,740 [DEBUG] modules.functions.mainFunctions: press: alt+x
+2026-06-07 09:49:29,791 [DEBUG] modules.functions.mainFunctions: press: b
+2026-06-07 09:49:30,095 [DEBUG] modules.functions.mainFunctions: press: alt+b
+2026-06-07 09:49:30,146 [DEBUG] modules.functions.mainFunctions: press: z
+2026-06-07 09:49:30,443 [DEBUG] modules.functions.mainFunctions: release: z
+2026-06-07 09:49:30,494 [DEBUG] modules.functions.mainFunctions: release: z
+2026-06-07 09:49:30,545 [DEBUG] modules.functions.mainFunctions: press: space+z
+2026-06-07 09:49:30,963 [DEBUG] modules.functions.mainFunctions: release: space
+2026-06-07 09:49:31,014 [DEBUG] modules.functions.mainFunctions: press: v
+2026-06-07 09:49:31,066 [DEBUG] modules.functions.mainFunctions: release: v
+2026-06-07 09:49:31,503 [DEBUG] modules.functions.mainFunctions: release: v
+2026-06-07 09:49:31,554 [DEBUG] modules.functions.mainFunctions: press: b+z
+2026-06-07 09:49:31,853 [DEBUG] modules.functions.mainFunctions: release: b
+2026-06-07 09:49:31,905 [DEBUG] modules.functions.mainFunctions: release: c+z
+2026-06-07 09:49:31,993 [DEBUG] modules.functions.mainFunctions: press: c+space+z
+2026-06-07 09:49:32,565 [DEBUG] modules.functions.mainFunctions: press: alt+c+space+z
+2026-06-07 09:49:32,616 [DEBUG] modules.functions.mainFunctions: press: c+n+space+z
+2026-06-07 09:49:32,813 [DEBUG] modules.functions.mainFunctions: release: c+n+space
+2026-06-07 09:49:33,095 [DEBUG] modules.functions.mainFunctions: press: alt+c+n+space
+2026-06-07 09:49:33,146 [DEBUG] modules.functions.mainFunctions: press: b+c+n+space
+2026-06-07 09:49:33,263 [DEBUG] modules.functions.mainFunctions: release: b+c+space
+2026-06-07 09:49:33,314 [DEBUG] modules.functions.mainFunctions: release: b+n+shift_r+v
+2026-06-07 09:49:33,365 [DEBUG] modules.functions.mainFunctions: release: n+shift_r+v
+2026-06-07 09:49:33,416 [DEBUG] modules.functions.mainFunctions: press: n+shift_r+space+v
+2026-06-07 09:49:33,626 [DEBUG] modules.functions.mainFunctions: press: alt+n+shift_r+space+v
+2026-06-07 09:49:33,678 [DEBUG] modules.functions.mainFunctions: press: n+shift_r+space+v+z
+2026-06-07 09:49:33,800 [DEBUG] modules.functions.mainFunctions: press: alt+n+shift_r+space+v+z
+2026-06-07 09:49:33,851 [DEBUG] modules.functions.mainFunctions: press: shift_r+space+v+z
+2026-06-07 09:49:33,977 [DEBUG] modules.functions.mainFunctions: press: alt+shift_r+space+v+z
+2026-06-07 09:49:34,028 [DEBUG] modules.functions.mainFunctions: press: b+space+x+z
+2026-06-07 09:49:34,323 [DEBUG] modules.functions.mainFunctions: release: b+space+x+z
+2026-06-07 09:49:34,374 [DEBUG] modules.functions.mainFunctions: press: b+c+shift_r+v+x+z
+2026-06-07 09:49:34,673 [DEBUG] modules.functions.mainFunctions: release: b+shift_r+v+x+z
+2026-06-07 09:49:34,724 [DEBUG] modules.functions.mainFunctions: release: c+shift_r
+2026-06-07 09:49:34,833 [DEBUG] modules.functions.mainFunctions: press: c+shift_r+space
+2026-06-07 09:49:35,034 [DEBUG] modules.functions.mainFunctions: press: alt+c+shift_r+space
+2026-06-07 09:49:35,085 [DEBUG] modules.functions.mainFunctions: release: c+shift_r+x
+2026-06-07 09:49:35,163 [DEBUG] modules.functions.mainFunctions: press: c+shift_r+space+x
+2026-06-07 09:49:35,214 [DEBUG] modules.functions.mainFunctions: press: c+space+x
+2026-06-07 09:49:35,372 [DEBUG] modules.functions.mainFunctions: release: c+space
+2026-06-07 09:49:35,423 [DEBUG] modules.functions.mainFunctions: press: b+space+x
+2026-06-07 09:49:35,738 [DEBUG] modules.functions.mainFunctions: press: alt+b+space+x
+2026-06-07 09:49:35,790 [DEBUG] modules.functions.mainFunctions: press: b+m
+2026-06-07 09:49:36,091 [DEBUG] modules.functions.mainFunctions: press: alt+b+m
+2026-06-07 09:49:36,142 [DEBUG] modules.functions.mainFunctions: release: n+z
+2026-06-07 09:49:36,242 [DEBUG] modules.functions.mainFunctions: press: n+space+z
+2026-06-07 09:49:36,443 [DEBUG] modules.functions.mainFunctions: release: n+space
+2026-06-07 09:49:36,494 [DEBUG] modules.functions.mainFunctions: press: n+space+z
+2026-06-07 09:49:36,569 [INFO] modules.functions.midiPlayerFunctions: pausePlayback called
+2026-06-07 09:49:36,570 [DEBUG] modules.functions.midiPlayerFunctions: midiHandler.paused: True
+2026-06-07 09:49:36,570 [DEBUG] modules.functions.mainFunctions: Playback paused.
+2026-06-07 09:49:36,589 [DEBUG] modules.functions.midiPlayerFunctions: pausePlayback state updated

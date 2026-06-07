@@ -1,0 +1,384 @@
+2026-06-07 13:32:24,496 [INFO] nanoMIDIPlayer: Logging initialized → C:\Users\haipr\Documents\nanoMIDIPlayer\logs\nanoMIDIPlayer_2026-06-07_13-32-24.log
+2026-06-07 13:32:24,496 [INFO] nanoMIDIPlayer: Application starting, logs at C:\Users\haipr\Documents\nanoMIDIPlayer\logs\nanoMIDIPlayer_2026-06-07_13-32-24.log
+2026-06-07 13:32:24,571 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:32:24,571 [DEBUG] PIL.PngImagePlugin: STREAM b'sRGB' 41 1
+2026-06-07 13:32:24,571 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 54 8192
+2026-06-07 13:32:24,600 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2026-06-07 13:32:24,944 [DEBUG] urllib3.connectionpool: https://raw.githubusercontent.com:443 "GET /NotHammer043/nanoMIDIPlayer/refs/heads/main/api/theme.json HTTP/1.1" 200 238
+2026-06-07 13:32:24,945 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2026-06-07 13:32:25,252 [DEBUG] urllib3.connectionpool: https://raw.githubusercontent.com:443 "GET /NotHammer043/nanoMIDIPlayer/refs/heads/main/api/themes/dark.json HTTP/1.1" 200 182661
+2026-06-07 13:32:26,931 [INFO] nanoMIDIPlayer: App initialized
+2026-06-07 13:32:26,960 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2026-06-07 13:32:27,301 [DEBUG] urllib3.connectionpool: https://raw.githubusercontent.com:443 "GET /NotHammer043/nanoMIDIPlayer/refs/heads/main/api/theme.json HTTP/1.1" 200 238
+2026-06-07 13:32:27,764 [DEBUG] modules.functions.mainFunctions: Hello! :)
+2026-06-07 13:32:28,158 [DEBUG] modules.functions.settingsFunctions: MidiCustomHoldLength status updated
+2026-06-07 13:32:28,163 [DEBUG] modules.functions.settingsFunctions: MidiRandomFail status updated
+2026-06-07 13:32:28,165 [DEBUG] modules.functions.settingsFunctions: DrumsCustomHoldLength status updated
+2026-06-07 13:32:28,168 [DEBUG] modules.functions.settingsFunctions: DrumsRandomFail status updated
+2026-06-07 13:32:28,169 [INFO] ui.info: InfoTab initialized
+2026-06-07 13:32:28,196 [DEBUG] ui.info: Initial loading message displayed
+2026-06-07 13:32:28,196 [DEBUG] ui.darwinPermission: initializing DarwinPermissionTab
+2026-06-07 13:32:28,198 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:32:28,199 [DEBUG] PIL.PngImagePlugin: STREAM b'sRGB' 41 1
+2026-06-07 13:32:28,199 [DEBUG] PIL.PngImagePlugin: STREAM b'eXIf' 54 68
+2026-06-07 13:32:28,199 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 134 16384
+2026-06-07 13:32:28,199 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:32:28,199 [DEBUG] PIL.PngImagePlugin: STREAM b'sRGB' 41 1
+2026-06-07 13:32:28,199 [DEBUG] PIL.PngImagePlugin: STREAM b'eXIf' 54 68
+2026-06-07 13:32:28,200 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 134 16384
+2026-06-07 13:32:28,520 [INFO] modules.functions.midiPlayerFunctions: loadSavedFile called
+2026-06-07 13:32:30,359 [INFO] modules.functions.drumsMacroFunctions: loadSavedFile called
+2026-06-07 13:32:30,363 [DEBUG] modules.functions.drumsMacroFunctions: no saved files found
+2026-06-07 13:32:30,364 [INFO] modules.functions.settingsFunctions: Control sets initialized
+2026-06-07 13:32:30,364 [INFO] modules.functions.mainFunctions: tabBind: 0
+2026-06-07 13:32:30,365 [DEBUG] modules.functions.mainFunctions: clearConsole
+2026-06-07 13:32:31,881 [INFO] ui.info: Attempting to fetch INFO.md from GitHub
+2026-06-07 13:32:31,881 [DEBUG] ui.info: Started background thread for loadContent
+2026-06-07 13:32:31,895 [DEBUG] modules.functions.mainFunctions: refreshInputDevices
+2026-06-07 13:32:31,929 [DEBUG] modules.functions.mainFunctions: input devices: ['loopMIDI Port 0']
+2026-06-07 13:32:31,931 [DEBUG] modules.functions.mainFunctions: refreshOutputDevices
+2026-06-07 13:32:31,932 [DEBUG] modules.functions.mainFunctions: output devices: ['Microsoft GS Wavetable Synth 0', 'loopMIDI Port 1']
+2026-06-07 13:32:32,088 [INFO] ui.info: Fetched INFO.md successfully
+2026-06-07 13:32:32,348 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2026-06-07 13:32:32,350 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.footnotes.FootnoteExtension".
+2026-06-07 13:32:32,350 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.attr_list.AttrListExtension".
+2026-06-07 13:32:32,352 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.def_list.DefListExtension".
+2026-06-07 13:32:32,353 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2026-06-07 13:32:32,354 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.abbr.AbbrExtension".
+2026-06-07 13:32:32,355 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.md_in_html.MarkdownInHtmlExtension".
+2026-06-07 13:32:32,356 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.extra.ExtraExtension".
+2026-06-07 13:32:32,359 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.toc.TocExtension".
+2026-06-07 13:32:32,359 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.tables.TableExtension".
+2026-06-07 13:32:32,360 [DEBUG] MARKDOWN: Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2026-06-07 13:32:32,397 [INFO] ui.info: HTML content loaded into HtmlFrame
+2026-06-07 13:32:32,706 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:32:32,707 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:32:32,708 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:32:32,708 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 713
+2026-06-07 13:32:32,710 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:32:32,710 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:32:32,711 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:32:32,711 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1180
+2026-06-07 13:32:32,722 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:32:32,722 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:32:32,723 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:32:32,723 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 722
+2026-06-07 13:32:32,724 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:32:32,725 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:32:32,725 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:32:32,726 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1106
+2026-06-07 13:32:32,727 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:32:32,727 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:32:32,727 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:32:32,728 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 952
+2026-06-07 13:32:32,730 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:32:32,730 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:32:32,731 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:32:32,731 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 767
+2026-06-07 13:32:32,734 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:32:32,734 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:32:32,734 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:32:32,734 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1337
+2026-06-07 13:32:32,738 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:32:32,738 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:32:32,738 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:32:32,738 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1200
+2026-06-07 13:32:32,739 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:32:32,739 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:32:32,739 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:32:32,739 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1179
+2026-06-07 13:32:32,743 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:32:32,743 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:32:32,743 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:32:32,744 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1975
+2026-06-07 13:32:32,748 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:32:32,751 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:32:32,751 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:32:32,754 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1737
+2026-06-07 13:32:32,758 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:32:32,758 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:32:32,759 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:32:32,759 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1184
+2026-06-07 13:32:32,760 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:32:32,760 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:32:32,760 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:32:32,760 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1791
+2026-06-07 13:32:32,761 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:32:32,761 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:32:32,761 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:32:32,761 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1437
+2026-06-07 13:32:32,762 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:32:32,763 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:32:32,763 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:32:32,763 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1810
+2026-06-07 13:32:32,766 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:32:32,766 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:32:32,766 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:32:32,766 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 1792
+2026-06-07 13:32:32,782 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:32:32,782 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:32:32,783 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:32:32,783 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 651
+2026-06-07 13:32:33,150 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:32:33,150 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:32:33,151 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:32:33,152 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 892
+2026-06-07 13:32:33,559 [DEBUG] PIL.PngImagePlugin: STREAM b'IHDR' 16 13
+2026-06-07 13:32:33,559 [DEBUG] PIL.PngImagePlugin: STREAM b'bKGD' 41 6
+2026-06-07 13:32:33,560 [DEBUG] PIL.PngImagePlugin: b'bKGD' 41 6 (unknown)
+2026-06-07 13:32:33,560 [DEBUG] PIL.PngImagePlugin: STREAM b'IDAT' 59 8192
+2026-06-07 13:32:39,001 [INFO] modules.functions.mainFunctions: tabBind: 3
+2026-06-07 13:32:39,002 [DEBUG] modules.functions.mainFunctions: clearConsole
+2026-06-07 13:32:46,415 [INFO] modules.functions.mainFunctions: tabBind: 0
+2026-06-07 13:32:46,416 [DEBUG] modules.functions.mainFunctions: clearConsole
+2026-06-07 13:32:50,178 [INFO] modules.functions.midiPlayerFunctions: stopPlayback called
+2026-06-07 13:32:50,179 [INFO] modules.functions.midiPlayerFunctions: startPlayback called, offset=0.0
+2026-06-07 13:32:50,179 [DEBUG] modules.functions.midiPlayerFunctions: startPlayback midiFile: C:\Users\haipr\Documents\nanoMIDIPlayer\Midis\Auf der Heide blüht ein kleines Blümelein Erika Piano.mid
+2026-06-07 13:32:50,206 [DEBUG] modules.functions.mainFunctions: starting logWorker thread
+2026-06-07 13:32:50,206 [DEBUG] modules.functions.midiPlayerFunctions: midiHandler.startPlayback called
+2026-06-07 13:32:50,207 [DEBUG] modules.functions.mainFunctions: logWorker started
+2026-06-07 13:32:50,208 [DEBUG] modules.functions.mainFunctions: Playing MIDI file: C:\Users\haipr\Documents\nanoMIDIPlayer\Midis\Auf der Heide blüht ein kleines Blümelein Erika Piano.mid
+2026-06-07 13:32:50,575 [DEBUG] modules.functions.mainFunctions: press: space
+2026-06-07 13:32:52,273 [INFO] modules.functions.mainFunctions: tabBind: 3
+2026-06-07 13:32:52,273 [DEBUG] modules.functions.mainFunctions: clearConsole
+2026-06-07 13:32:54,975 [DEBUG] modules.functions.mainFunctions: release: space
+2026-06-07 13:32:55,089 [DEBUG] modules.functions.mainFunctions: press: alt
+2026-06-07 13:32:55,140 [DEBUG] modules.functions.mainFunctions: press: b
+2026-06-07 13:32:55,191 [DEBUG] modules.functions.mainFunctions: release: z
+2026-06-07 13:32:55,637 [DEBUG] modules.functions.mainFunctions: press: alt
+2026-06-07 13:32:55,691 [DEBUG] modules.functions.mainFunctions: press: =
+2026-06-07 13:32:55,742 [DEBUG] modules.functions.mainFunctions: release: =
+2026-06-07 13:32:55,796 [DEBUG] modules.functions.mainFunctions: release: =
+2026-06-07 13:32:55,848 [DEBUG] modules.functions.mainFunctions: press: b+f
+2026-06-07 13:32:55,901 [DEBUG] modules.functions.mainFunctions: release: b+f
+2026-06-07 13:32:55,953 [DEBUG] modules.functions.mainFunctions: release: b
+2026-06-07 13:32:56,004 [DEBUG] modules.functions.mainFunctions: press: z
+2026-06-07 13:32:56,056 [DEBUG] modules.functions.mainFunctions: release: z
+2026-06-07 13:32:56,107 [DEBUG] modules.functions.mainFunctions: release: z
+2026-06-07 13:32:56,159 [DEBUG] modules.functions.mainFunctions: press: p
+2026-06-07 13:32:56,211 [DEBUG] modules.functions.mainFunctions: press: 0
+2026-06-07 13:32:56,263 [DEBUG] modules.functions.mainFunctions: release: l
+2026-06-07 13:32:56,691 [DEBUG] modules.functions.mainFunctions: press: alt
+2026-06-07 13:32:56,745 [DEBUG] modules.functions.mainFunctions: release: z
+2026-06-07 13:32:56,796 [DEBUG] modules.functions.mainFunctions: release: z
+2026-06-07 13:32:57,238 [DEBUG] modules.functions.mainFunctions: press: alt
+2026-06-07 13:32:57,290 [DEBUG] modules.functions.mainFunctions: press: q
+2026-06-07 13:32:57,341 [DEBUG] modules.functions.mainFunctions: release: q
+2026-06-07 13:32:57,369 [INFO] modules.functions.mainFunctions: tabBind: 0
+2026-06-07 13:32:57,369 [DEBUG] modules.functions.mainFunctions: clearConsole
+2026-06-07 13:32:57,393 [DEBUG] modules.functions.mainFunctions: release: b
+2026-06-07 13:32:57,767 [DEBUG] modules.functions.mainFunctions: press: alt
+2026-06-07 13:32:57,821 [DEBUG] modules.functions.mainFunctions: press: =
+2026-06-07 13:32:57,873 [DEBUG] modules.functions.mainFunctions: release: =
+2026-06-07 13:32:57,971 [DEBUG] modules.functions.mainFunctions: press: =+alt
+2026-06-07 13:32:58,022 [DEBUG] modules.functions.mainFunctions: press: =+\
+2026-06-07 13:32:58,074 [DEBUG] modules.functions.mainFunctions: release: =
+2026-06-07 13:32:58,125 [DEBUG] modules.functions.mainFunctions: press: alt+b+j
+2026-06-07 13:32:58,177 [DEBUG] modules.functions.mainFunctions: press: \
+2026-06-07 13:32:58,228 [DEBUG] modules.functions.mainFunctions: release: f
+2026-06-07 13:32:58,296 [DEBUG] modules.functions.mainFunctions: press: alt
+2026-06-07 13:32:58,348 [DEBUG] modules.functions.mainFunctions: press: b+f
+2026-06-07 13:32:58,470 [INFO] modules.functions.midiPlayerFunctions: playButton called
+2026-06-07 13:32:58,471 [INFO] modules.functions.midiPlayerFunctions: pausePlayback called
+2026-06-07 13:32:58,472 [DEBUG] modules.functions.midiPlayerFunctions: midiHandler.paused: True
+2026-06-07 13:32:58,472 [DEBUG] modules.functions.mainFunctions: Playback paused.
+2026-06-07 13:32:58,474 [DEBUG] modules.functions.midiPlayerFunctions: pausePlayback state updated
+2026-06-07 13:32:59,478 [INFO] modules.functions.mainFunctions: tabBind: 3
+2026-06-07 13:32:59,478 [DEBUG] modules.functions.mainFunctions: clearConsole
+2026-06-07 13:33:15,180 [DEBUG] modules.functions.mainFunctions: MIDI input stopped.
+2026-06-07 13:33:16,948 [INFO] modules.functions.mainFunctions: tabBind: 0
+2026-06-07 13:33:16,948 [DEBUG] modules.functions.mainFunctions: clearConsole
+2026-06-07 13:33:19,797 [INFO] modules.functions.midiPlayerFunctions: switchUseMIDI called
+2026-06-07 13:33:19,800 [DEBUG] modules.functions.mainFunctions: clearConsole
+2026-06-07 13:33:19,802 [DEBUG] modules.functions.mainFunctions: refreshOutputDevices
+2026-06-07 13:33:19,802 [DEBUG] modules.functions.mainFunctions: output devices: ['Microsoft GS Wavetable Synth 0', 'loopMIDI Port 1']
+2026-06-07 13:33:19,807 [DEBUG] modules.functions.mainFunctions: -------< WARNING >-------   This will not press keys for you!
+2026-06-07 13:33:22,708 [INFO] modules.functions.mainFunctions: tabBind: 3
+2026-06-07 13:33:22,708 [DEBUG] modules.functions.mainFunctions: clearConsole
+2026-06-07 13:33:24,900 [INFO] modules.functions.mainFunctions: tabBind: 0
+2026-06-07 13:33:24,902 [DEBUG] modules.functions.mainFunctions: clearConsole
+2026-06-07 13:33:27,649 [INFO] modules.functions.midiPlayerFunctions: stopPlayback called
+2026-06-07 13:33:27,649 [INFO] modules.functions.midiPlayerFunctions: startPlayback called, offset=0.0
+2026-06-07 13:33:27,650 [DEBUG] modules.functions.midiPlayerFunctions: startPlayback midiFile: C:\Users\haipr\Documents\nanoMIDIPlayer\Midis\autum.mp3.mid
+2026-06-07 13:33:27,651 [DEBUG] modules.functions.midiPlayerFunctions: outputDevice selected: loopMIDI Port 1
+2026-06-07 13:33:27,673 [DEBUG] modules.functions.midiPlayerFunctions: useOutput.startPlayback called
+2026-06-07 13:33:27,673 [DEBUG] modules.functions.mainFunctions: Playing MIDI file: C:\Users\haipr\Documents\nanoMIDIPlayer\Midis\autum.mp3.mid
+2026-06-07 13:33:27,994 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=127 time=0.3098958333333333
+2026-06-07 13:33:28,423 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=0 time=0.4296875
+2026-06-07 13:33:28,507 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=81 velocity=76 time=0.08463541666666666
+2026-06-07 13:33:28,559 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=127 time=0.024739583333333332
+2026-06-07 13:33:28,680 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=80 velocity=78 time=0.14713541666666666
+2026-06-07 13:33:28,902 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=81 velocity=0 time=0.22265625
+2026-06-07 13:33:28,954 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=50 velocity=65 time=0.0013020833333333333
+2026-06-07 13:33:29,006 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=80 velocity=0 time=0.016927083333333332
+2026-06-07 13:33:29,062 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=127 time=0.09895833333333333
+2026-06-07 13:33:29,362 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=57 velocity=46 time=0.29947916666666663
+2026-06-07 13:33:29,786 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=62 velocity=54 time=0.42447916666666663
+2026-06-07 13:33:30,224 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=78 velocity=82 time=0.4375
+2026-06-07 13:33:30,275 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=66 velocity=63 time=0.00390625
+2026-06-07 13:33:31,470 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=76 velocity=62 time=1.2421875
+2026-06-07 13:33:31,663 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=81 velocity=0 time=0.19270833333333331
+2026-06-07 13:33:31,714 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=81 velocity=83 time=0.013020833333333332
+2026-06-07 13:33:31,740 [INFO] modules.functions.mainFunctions: tabBind: 3
+2026-06-07 13:33:31,742 [DEBUG] modules.functions.mainFunctions: clearConsole
+2026-06-07 13:33:31,879 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=80 velocity=79 time=0.203125
+2026-06-07 13:33:32,073 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=81 velocity=0 time=0.19401041666666666
+2026-06-07 13:33:32,124 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=78 velocity=0 time=0
+2026-06-07 13:33:32,243 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=127 time=0.12630208333333331
+2026-06-07 13:33:32,536 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=57 velocity=58 time=0.29296875
+2026-06-07 13:33:32,982 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=61 velocity=65 time=0.4453125
+2026-06-07 13:33:33,368 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=69 velocity=76 time=0.38671875
+2026-06-07 13:33:33,429 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=71 velocity=60 time=0.061197916666666664
+2026-06-07 13:33:33,481 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=64 velocity=55 time=0.006510416666666666
+2026-06-07 13:33:33,532 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=76 velocity=84 time=0.06640625
+2026-06-07 13:33:34,853 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=81 velocity=0 time=1.3502604166666665
+2026-06-07 13:33:34,904 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=81 velocity=82 time=0.013020833333333332
+2026-06-07 13:33:35,079 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=80 velocity=79 time=0.21354166666666666
+2026-06-07 13:33:35,183 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=49 velocity=0 time=0.10416666666666666
+2026-06-07 13:33:35,247 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=0 time=0.06380208333333333
+2026-06-07 13:33:35,298 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=47 velocity=63 time=0.0013020833333333333
+2026-06-07 13:33:35,353 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=127 time=0.07682291666666666
+2026-06-07 13:33:35,818 [DEBUG] modules.functions.mainFunctions: MIDI input stopped.
+2026-06-07 13:33:36,135 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=69 velocity=69 time=0.7825520833333333
+2026-06-07 13:33:36,186 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=0 time=0
+2026-06-07 13:33:36,238 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=127 time=0.0026041666666666665
+2026-06-07 13:33:36,289 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=47 velocity=0 time=0.0703125
+2026-06-07 13:33:36,934 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=69 velocity=0 time=0.66015625
+2026-06-07 13:33:36,985 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=69 velocity=66 time=0.009114583333333332
+2026-06-07 13:33:37,036 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=76 velocity=0 time=0
+2026-06-07 13:33:37,087 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=78 velocity=99 time=0.00390625
+2026-06-07 13:33:37,138 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=69 velocity=0 time=0.041666666666666664
+2026-06-07 13:33:37,189 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=127 time=0.04036458333333333
+2026-06-07 13:33:37,523 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=57 velocity=47 time=0.3802083333333333
+2026-06-07 13:33:37,953 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=57 velocity=0 time=0.4296875
+2026-06-07 13:33:38,004 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=62 velocity=60 time=0.010416666666666666
+2026-06-07 13:33:38,319 [DEBUG] modules.functions.mainFunctions: nanoMIDI Mid2VK Translator v1.0 (Live Input)
+2026-06-07 13:33:38,440 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=85 velocity=86 time=0.46875
+2026-06-07 13:33:38,493 [DEBUG] modules.functions.mainFunctions: release: i+l
+2026-06-07 13:33:38,903 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=74 velocity=0 time=0.43359375
+2026-06-07 13:33:38,958 [DEBUG] modules.functions.mainFunctions: press: d+i+l
+2026-06-07 13:33:39,009 [DEBUG] modules.functions.mainFunctions: release: d+i+l
+2026-06-07 13:33:39,060 [DEBUG] modules.functions.mainFunctions: press: d+i+k
+2026-06-07 13:33:39,111 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=127 time=0.053385416666666664
+2026-06-07 13:33:40,114 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=62 velocity=0 time=1.0208333333333333
+2026-06-07 13:33:40,169 [DEBUG] modules.functions.mainFunctions: release: d+i+k
+2026-06-07 13:33:40,220 [DEBUG] modules.functions.mainFunctions: release: i+k
+2026-06-07 13:33:40,538 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=81 velocity=91 time=0.35416666666666663
+2026-06-07 13:33:40,590 [DEBUG] modules.functions.mainFunctions: press: g+i+j+k
+2026-06-07 13:33:41,687 [DEBUG] modules.functions.mainFunctions: release: g+j+k
+2026-06-07 13:33:41,746 [DEBUG] modules.functions.mainFunctions: nanoMIDI Mid2VK Translator v1.0 (Live Input)
+2026-06-07 13:33:42,070 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=71 velocity=73 time=1.4921875
+2026-06-07 13:33:42,122 [DEBUG] modules.functions.mainFunctions: press: a
+2026-06-07 13:33:42,174 [DEBUG] modules.functions.mainFunctions: release: a+s
+2026-06-07 13:33:42,243 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=127 time=0.10026041666666666
+2026-06-07 13:33:42,628 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=76 velocity=71 time=0.3841145833333333
+2026-06-07 13:33:42,680 [DEBUG] modules.functions.mainFunctions: press: a+f+s
+2026-06-07 13:33:42,844 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=69 velocity=79 time=0.21614583333333331
+2026-06-07 13:33:42,895 [DEBUG] modules.functions.mainFunctions: press: a+f+p+s
+2026-06-07 13:33:43,092 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=77 velocity=0 time=0.24869791666666666
+2026-06-07 13:33:43,144 [DEBUG] modules.functions.mainFunctions: release: 6+f+p+s
+2026-06-07 13:33:43,195 [DEBUG] modules.functions.mainFunctions: release: 6+f+p
+2026-06-07 13:33:43,246 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=127 time=0.08072916666666666
+2026-06-07 13:33:43,513 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=76 velocity=0 time=0.26953125
+2026-06-07 13:33:43,565 [DEBUG] modules.functions.mainFunctions: press: 0+6+p
+2026-06-07 13:33:43,979 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=59 velocity=65 time=0.43359375
+2026-06-07 13:33:44,929 [DEBUG] modules.functions.mainFunctions: MIDI input stopped.
+2026-06-07 13:33:45,222 [INFO] modules.functions.mainFunctions: tabBind: 0
+2026-06-07 13:33:45,223 [DEBUG] modules.functions.mainFunctions: clearConsole
+2026-06-07 13:33:45,384 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=71 velocity=68 time=0.9401041666666666
+2026-06-07 13:33:45,810 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=73 velocity=98 time=0.42578125
+2026-06-07 13:33:46,244 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=78 velocity=81 time=0.43359375
+2026-06-07 13:33:46,652 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=78 velocity=0 time=0.40885416666666663
+2026-06-07 13:33:46,703 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=56 velocity=66 time=0.0078125
+2026-06-07 13:33:46,823 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=127 time=0.13671875
+2026-06-07 13:33:46,860 [INFO] modules.functions.midiPlayerFunctions: playButton called
+2026-06-07 13:33:46,860 [INFO] modules.functions.midiPlayerFunctions: startPlayback called, offset=0.0
+2026-06-07 13:33:46,861 [DEBUG] modules.functions.midiPlayerFunctions: startPlayback midiFile: C:\Users\haipr\Documents\nanoMIDIPlayer\Midis\autum.mp3.mid
+2026-06-07 13:33:46,861 [DEBUG] modules.functions.midiPlayerFunctions: outputDevice selected: loopMIDI Port 1
+2026-06-07 13:33:46,883 [DEBUG] modules.functions.midiPlayerFunctions: useOutput.startPlayback called
+2026-06-07 13:33:46,884 [DEBUG] modules.functions.mainFunctions: Playing MIDI file: C:\Users\haipr\Documents\nanoMIDIPlayer\Midis\autum.mp3.mid
+2026-06-07 13:33:47,202 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=127 time=0.3098958333333333
+2026-06-07 13:33:47,632 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=0 time=0.4296875
+2026-06-07 13:33:47,717 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=81 velocity=76 time=0.08463541666666666
+2026-06-07 13:33:47,768 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=127 time=0.024739583333333332
+2026-06-07 13:33:47,889 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=80 velocity=78 time=0.14713541666666666
+2026-06-07 13:33:48,111 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=81 velocity=0 time=0.22265625
+2026-06-07 13:33:48,162 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=50 velocity=65 time=0.0013020833333333333
+2026-06-07 13:33:48,214 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=80 velocity=0 time=0.016927083333333332
+2026-06-07 13:33:48,271 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=127 time=0.09895833333333333
+2026-06-07 13:33:48,571 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=57 velocity=46 time=0.29947916666666663
+2026-06-07 13:33:48,996 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=62 velocity=54 time=0.42447916666666663
+2026-06-07 13:33:49,433 [DEBUG] modules.functions.mainFunctions: skipped double: note 78 ch 0
+2026-06-07 13:33:49,484 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=66 velocity=63 time=0.00390625
+2026-06-07 13:33:50,679 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=76 velocity=62 time=1.2421875
+2026-06-07 13:33:50,872 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=81 velocity=0 time=0.19270833333333331
+2026-06-07 13:33:50,924 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=81 velocity=83 time=0.013020833333333332
+2026-06-07 13:33:51,088 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=80 velocity=79 time=0.203125
+2026-06-07 13:33:51,282 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=81 velocity=0 time=0.19401041666666666
+2026-06-07 13:33:51,333 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=78 velocity=0 time=0
+2026-06-07 13:33:51,452 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=127 time=0.12630208333333331
+2026-06-07 13:33:51,746 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=57 velocity=58 time=0.29296875
+2026-06-07 13:33:52,191 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=61 velocity=65 time=0.4453125
+2026-06-07 13:33:52,577 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=69 velocity=76 time=0.38671875
+2026-06-07 13:33:52,639 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=71 velocity=60 time=0.061197916666666664
+2026-06-07 13:33:52,691 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=64 velocity=55 time=0.006510416666666666
+2026-06-07 13:33:52,742 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=76 velocity=84 time=0.06640625
+2026-06-07 13:33:54,062 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=81 velocity=0 time=1.3502604166666665
+2026-06-07 13:33:54,114 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=81 velocity=82 time=0.013020833333333332
+2026-06-07 13:33:54,288 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=80 velocity=79 time=0.21354166666666666
+2026-06-07 13:33:54,393 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=49 velocity=0 time=0.10416666666666666
+2026-06-07 13:33:54,456 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=0 time=0.06380208333333333
+2026-06-07 13:33:54,507 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=47 velocity=63 time=0.0013020833333333333
+2026-06-07 13:33:54,562 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=127 time=0.07682291666666666
+2026-06-07 13:33:55,344 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=69 velocity=69 time=0.7825520833333333
+2026-06-07 13:33:55,396 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=0 time=0
+2026-06-07 13:33:55,448 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=127 time=0.0026041666666666665
+2026-06-07 13:33:55,499 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=47 velocity=0 time=0.0703125
+2026-06-07 13:33:56,143 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=69 velocity=0 time=0.66015625
+2026-06-07 13:33:56,195 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=69 velocity=66 time=0.009114583333333332
+2026-06-07 13:33:56,246 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=76 velocity=0 time=0
+2026-06-07 13:33:56,299 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=78 velocity=99 time=0.00390625
+2026-06-07 13:33:56,350 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=69 velocity=0 time=0.041666666666666664
+2026-06-07 13:33:56,402 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=127 time=0.04036458333333333
+2026-06-07 13:33:56,732 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=57 velocity=47 time=0.3802083333333333
+2026-06-07 13:33:57,162 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=57 velocity=0 time=0.4296875
+2026-06-07 13:33:57,214 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=62 velocity=60 time=0.010416666666666666
+2026-06-07 13:33:57,649 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=85 velocity=86 time=0.46875
+2026-06-07 13:33:57,701 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=66 velocity=65 time=0.028645833333333332
+2026-06-07 13:33:58,112 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=74 velocity=0 time=0.43359375
+2026-06-07 13:33:58,163 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=74 velocity=65 time=0.014322916666666666
+2026-06-07 13:33:58,215 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=66 velocity=0 time=0.0013020833333333333
+2026-06-07 13:33:58,267 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=83 velocity=100 time=0.006510416666666666
+2026-06-07 13:33:58,318 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=127 time=0.053385416666666664
+2026-06-07 13:33:59,322 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=62 velocity=0 time=1.0208333333333333
+2026-06-07 13:33:59,393 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=77 velocity=0 time=0
+2026-06-07 13:33:59,747 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=81 velocity=91 time=0.35416666666666663
+2026-06-07 13:33:59,799 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=77 velocity=40 time=0.04036458333333333
+2026-06-07 13:34:01,281 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=71 velocity=73 time=1.4921875
+2026-06-07 13:34:01,348 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=0 time=0.06901041666666666
+2026-06-07 13:34:01,399 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=73 velocity=91 time=0.00390625
+2026-06-07 13:34:01,453 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=127 time=0.10026041666666666
+2026-06-07 13:34:01,837 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=76 velocity=71 time=0.3841145833333333
+2026-06-07 13:34:02,053 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=69 velocity=79 time=0.21614583333333331
+2026-06-07 13:34:02,301 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=77 velocity=0 time=0.24869791666666666
+2026-06-07 13:34:02,353 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=81 velocity=0 time=0.015625
+2026-06-07 13:34:02,405 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=73 velocity=0 time=0.029947916666666664
+2026-06-07 13:34:02,456 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=127 time=0.08072916666666666
+2026-06-07 13:34:02,722 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=76 velocity=0 time=0.26953125
+2026-06-07 13:34:02,774 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=52 velocity=54 time=0.03255208333333333
+2026-06-07 13:34:03,188 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=59 velocity=65 time=0.43359375
+2026-06-07 13:34:03,643 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=59 velocity=0 time=0.4544270833333333
+2026-06-07 13:34:03,694 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=64 velocity=62 time=0.00390625
+2026-06-07 13:34:04,593 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=71 velocity=68 time=0.9401041666666666
+2026-06-07 13:34:05,019 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=73 velocity=98 time=0.42578125
+2026-06-07 13:34:05,452 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=78 velocity=81 time=0.43359375
+2026-06-07 13:34:05,861 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=78 velocity=0 time=0.40885416666666663
+2026-06-07 13:34:05,913 [DEBUG] modules.functions.mainFunctions: skipped double: note 56 ch 0
+2026-06-07 13:34:06,032 [DEBUG] modules.functions.mainFunctions: control_change channel=0 control=64 value=127 time=0.13671875
+2026-06-07 13:34:06,342 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=64 velocity=63 time=0.3098958333333333
+2026-06-07 13:34:06,775 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=71 velocity=69 time=0.43359375
+2026-06-07 13:34:07,209 [DEBUG] modules.functions.mainFunctions: note_on channel=0 note=76 velocity=83 time=0.43359375
+2026-06-07 13:34:07,404 [INFO] modules.functions.midiPlayerFunctions: stopPlayback called
+2026-06-07 13:34:07,407 [DEBUG] modules.functions.midiPlayerFunctions: useOutput.stopPlayback called
+2026-06-07 13:34:07,407 [DEBUG] modules.functions.mainFunctions: Playback fully stopped.
+2026-06-07 13:34:07,426 [DEBUG] modules.functions.midiPlayerFunctions: stopPlayback completed
